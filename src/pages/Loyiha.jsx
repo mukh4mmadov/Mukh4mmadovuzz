@@ -1,8 +1,8 @@
 import React from "react";
 import Head from "../components/Head";
 import { FaGithub, FaLink } from "react-icons/fa";
-import Loyiha1 from "../assets/Loyiha1.jpg";
-import Loyiha2 from "../assets/Loyiha2.jpg";
+import Loyiha1 from "../assets/loyiha1.jpg";
+import Loyiha2 from "../assets/loyiha2.jpg";
 
 function Loyiha() {
   return (

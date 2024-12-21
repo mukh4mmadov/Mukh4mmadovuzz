@@ -12,7 +12,7 @@ function Home() {
     <div className="bg-gradient-to-r from-gray-800 to-gray-900 min-h-screen flex flex-col items-center justify-center text-white">
       <Head />
 
-      <div className="relative z-10 text-center px-6 md:px-12 lg:px-24 space-y-6">
+      <div className="mt-12 relative z-10 text-center px-6 md:px-12 lg:px-24 space-y-6">
         <h1 className="text-5xl md:text-6xl font-bold tracking-widest text-gray-200">
           Salom, men Ozodbek!
         </h1>

@@ -18,10 +18,16 @@ const projectLinks = [
     accent: "text-cyan-400",
   },
   {
-    github: "https://github.com/mukh4mmadov/todo-list",
-    demo: "https://todo-list-one-chi-34.vercel.app/",
-    gradient: "from-purple-500/20 to-pink-500/20",
-    accent: "text-purple-400",
+    github: "https://github.com/mukh4mmadov/mukh4mmadovoriginal",
+    demo: "https://mukh4mmadovoriginal.vercel.app/",
+    gradient: "from-emerald-500/20 to-teal-500/20",
+    accent: "text-emerald-400",
+  },
+  {
+    github: "https://github.com/mukh4mmadov/lugat",
+    demo: "https://lugat-six.vercel.app/",
+    gradient: "from-blue-500/20 to-indigo-500/20",
+    accent: "text-blue-400",
   },
 ];
 

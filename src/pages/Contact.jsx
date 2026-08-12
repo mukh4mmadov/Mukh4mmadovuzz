@@ -3,7 +3,6 @@ import Header from "../components/Head";
 import Footer from "../components/Footer";
 import {
   FaGithub,
-  FaInstagram,
   FaTelegram,
   FaPhone,
   FaEnvelope,
@@ -39,13 +38,6 @@ const contacts = [
     label: "LinkedIn",
     value: "Ozodbek Muhammadov",
     color: "hover:text-blue-400 hover:border-blue-400/30",
-  },
-  {
-    href: "https://www.instagram.com/mukh4mmadov_7",
-    icon: FaInstagram,
-    label: "Instagram",
-    value: "@mukh4mmadov_7",
-    color: "hover:text-pink-400 hover:border-pink-400/30",
   },
   {
     href: "https://t.me/mukh4mmadov",

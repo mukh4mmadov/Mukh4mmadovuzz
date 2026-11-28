@@ -1,0 +1,31 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:05.081
+A long text. Fourteen questions. And twenty minutes on the clock.
+
+00:00:05.843 --> 00:00:06.518
+Ready?
+
+00:00:07.619 --> 00:00:13.367
+This is IELTS Practice: reading, listening, writing, and full mock tests.
+
+00:00:13.979 --> 00:00:19.510
+There are thirty-three reading passages, with filters for difficulty and question type.
+
+00:00:20.081 --> 00:00:28.232
+The text sits beside the questions, with a timer, a highlighter, and notes. And before you submit, it shows what is still unanswered.
+
+00:00:28.979 --> 00:00:34.090
+Every answer is saved as a draft on the device, together with the time that’s left.
+
+00:00:34.140 --> 00:00:40.976
+And when you submit? The result is stored here first, so the result screen never waits for the network.
+
+00:00:43.979 --> 00:00:50.983
+Listening has four full tests. Results stay in the browser, and with an account, they follow you across devices.
+
+00:00:51.606 --> 00:01:00.687
+But what if you practise as a guest, and sign in later? The attempts are merged by their id. None is counted twice, and the best score wins.
+
+00:01:01.267 --> 00:01:06.959
+It’s built with Next and Supabase. And all the passages are unofficial practice content.

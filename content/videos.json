@@ -1,0 +1,2113 @@
+{
+ "opus-support": {
+  "src": "/videos/opus-support/film.mp4",
+  "preview": "/videos/opus-support/preview.mp4",
+  "poster": "/videos/opus-support/poster.jpg",
+  "duration": 390.254,
+  "chapters": [
+   {
+    "t": 0,
+    "title": {
+     "en": "Two students",
+     "uz": "Ikki o‘quvchi",
+     "ru": "Два ученика"
+    }
+   },
+   {
+    "t": 9.4,
+    "title": {
+     "en": "What it is",
+     "uz": "Bu nima",
+     "ru": "Что это"
+    }
+   },
+   {
+    "t": 21.3,
+    "title": {
+     "en": "Student: booking",
+     "uz": "O‘quvchi: bron",
+     "ru": "Ученик: запись"
+    }
+   },
+   {
+    "t": 40.9,
+    "title": {
+     "en": "Behind it: one tap",
+     "uz": "Orqasida: bitta bosish",
+     "ru": "Внутри: одно нажатие"
+    }
+   },
+   {
+    "t": 60.7,
+    "title": {
+     "en": "Chat",
+     "uz": "Chat",
+     "ru": "Чат"
+    }
+   },
+   {
+    "t": 92,
+    "title": {
+     "en": "Two taps, one slot",
+     "uz": "Ikki bosish, bitta vaqt",
+     "ru": "Два нажатия, одно время"
+    }
+   },
+   {
+    "t": 105,
+    "title": {
+     "en": "Behind it: the race",
+     "uz": "Orqasida: poyga",
+     "ru": "Внутри: гонка"
+    }
+   },
+   {
+    "t": 120.7,
+    "title": {
+     "en": "Behind it: the rules",
+     "uz": "Orqasida: qoidalar",
+     "ru": "Внутри: правила"
+    }
+   },
+   {
+    "t": 136.2,
+    "title": {
+     "en": "The lesson",
+     "uz": "Dars",
+     "ru": "Урок"
+    }
+   },
+   {
+    "t": 218.1,
+    "title": {
+     "en": "The support teacher",
+     "uz": "Support o‘qituvchi",
+     "ru": "Support-учитель"
+    }
+   },
+   {
+    "t": 233.6,
+    "title": {
+     "en": "Staff attendance",
+     "uz": "Xodimlar davomati",
+     "ru": "Посещаемость сотрудников"
+    }
+   },
+   {
+    "t": 262.1,
+    "title": {
+     "en": "The admin desk",
+     "uz": "Admin paneli",
+     "ru": "Админ-панель"
+    }
+   },
+   {
+    "t": 325.1,
+    "title": {
+     "en": "Behind it: every minute",
+     "uz": "Orqasida: har daqiqa",
+     "ru": "Внутри: каждую минуту"
+    }
+   },
+   {
+    "t": 344.4,
+    "title": {
+     "en": "The life of one lesson",
+     "uz": "Bitta darsning hayoti",
+     "ru": "Жизнь одного урока"
+    }
+   },
+   {
+    "t": 357.2,
+    "title": {
+     "en": "The whole system",
+     "uz": "Butun tizim",
+     "ru": "Вся система"
+    }
+   },
+   {
+    "t": 377,
+    "title": {
+     "en": "Where it stands",
+     "uz": "Hozirgi holat",
+     "ru": "Где он сейчас"
+    }
+   }
+  ],
+  "cues": [
+   {
+    "s": 0.4,
+    "e": 2.68,
+    "text": {
+     "en": "Two students. One free time.",
+     "uz": "Ikki o‘quvchi. Bitta bo‘sh vaqt.",
+     "ru": "Два ученика. Одно свободное время."
+    }
+   },
+   {
+    "s": 2.98,
+    "e": 5.905,
+    "text": {
+     "en": "And both of them press the button at the same moment.",
+     "uz": "Va ikkalasi tugmani bir lahzada bosadi.",
+     "ru": "И оба нажимают кнопку в один и тот же момент."
+    }
+   },
+   {
+    "s": 6.86,
+    "e": 8.471,
+    "text": {
+     "en": "So… who gets the lesson?",
+     "uz": "Xo‘sh, dars kimga tegadi?",
+     "ru": "Так кому достанется урок?"
+    }
+   },
+   {
+    "s": 9.907,
+    "e": 14.616,
+    "text": {
+     "en": "This is OPUS Support, a booking system for a learning centre in Uzbekistan.",
+     "uz": "Bu OPUS Support, O‘zbekistondagi o‘quv markaz uchun dars bron qilish tizimi.",
+     "ru": "Это OPUS Support, система записи для учебного центра в Узбекистане."
+    }
+   },
+   {
+    "s": 15.504,
+    "e": 20.686,
+    "text": {
+     "en": "The support lessons ran on a very old-fashioned system. OPUS Support replaces it.",
+     "uz": "Support darslari juda eskicha tizimda yurardi. OPUS Support uning o‘rnini egallaydi.",
+     "ru": "Support-занятия велись по очень старой системе. OPUS Support заменяет её."
+    }
+   },
+   {
+    "s": 21.606,
+    "e": 26.949,
+    "text": {
+     "en": "Let’s start as a student. Here are the support teachers, with their ratings and working hours.",
+     "uz": "O‘quvchi sifatida boshlaymiz. Mana support o‘qituvchilar, bahosi va ish vaqti bilan.",
+     "ru": "Начнём как ученик. Вот support-учителя, их рейтинг и часы работы."
+    }
+   },
+   {
+    "s": 27.962,
+    "e": 35.224,
+    "text": {
+     "en": "Pick a time. Grey means taken. But see the little bell? Tap it, and you join the waiting list. If the time frees up, you’ll know.",
+     "uz": "Vaqtni tanlang. Kulrangi band. Lekin kichkina qo‘ng‘iroqchani ko‘ryapsizmi? Bossangiz, navbatga turasiz. Vaqt bo‘shasa, bilasiz.",
+     "ru": "Выберите время. Серое занято. Но видите маленький колокольчик? Нажмите и встанете в очередь. Если время освободится, вы узнаете."
+    }
+   },
+   {
+    "s": 35.524,
+    "e": 40.323,
+    "text": {
+     "en": "For a free time, write what you want to study, so the teacher can prepare for exactly that.",
+     "uz": "Bo‘sh vaqt uchun nimani o‘rganmoqchiligingizni yozing, o‘qituvchi aynan shunga tayyorlanadi.",
+     "ru": "Для свободного времени напишите, что хотите изучить, чтобы учитель подготовился именно к этому."
+    }
+   },
+   {
+    "s": 41.182,
+    "e": 45.357,
+    "text": {
+     "en": "And… Book. The app calls one function in the database.",
+     "uz": "Va… Bron. Ilova bazadagi bitta funksiyani chaqiradi.",
+     "ru": "И… Записаться. Приложение вызывает одну функцию в базе."
+    }
+   },
+   {
+    "s": 45.657,
+    "e": 52.893,
+    "text": {
+     "en": "Is it a student? Is the topic written? No ban? A good date? Under the limits? Only then does a new row appear.",
+     "uz": "Bu o‘quvchimi? Mavzu yozilganmi? Taqiq yo‘qmi? Sana to‘g‘rimi? Limitdan oshmaganmi? Faqat shundan keyin yangi qator paydo bo‘ladi.",
+     "ru": "Это ученик? Тема указана? Нет запрета? Дата подходит? Лимит не превышен? Только тогда появляется новая строка."
+    }
+   },
+   {
+    "s": 53.193,
+    "e": 57.979,
+    "text": {
+     "en": "Both people get a notification. And only now does the screen say: booked.",
+     "uz": "Ikkala tomonga xabar boradi. Va faqat endi ekran «bron qilindi» deydi.",
+     "ru": "Обоим приходит уведомление. И только теперь экран говорит: записано."
+    }
+   },
+   {
+    "s": 61.013,
+    "e": 66.133,
+    "text": {
+     "en": "Before the lesson, both sides can chat. And yes, the centre can read these chats.",
+     "uz": "Darsdan oldin ikki tomon yozisha oladi. Va ha, markaz bu yozishmalarni o‘qiy oladi.",
+     "ru": "До урока обе стороны могут переписываться. И да, центр может читать эти чаты."
+    }
+   },
+   {
+    "s": 66.433,
+    "e": 74.537,
+    "text": {
+     "en": "Every message goes through a function, too. Who is writing? Is the chat still open? Then it’s saved, and the other side is notified.",
+     "uz": "Har bir xabar ham funksiyadan o‘tadi. Kim yozyapti? Chat hali ochiqmi? Keyin saqlanadi va narigi tomonga xabar boradi.",
+     "ru": "Каждое сообщение тоже проходит через функцию. Кто пишет? Чат ещё открыт? Затем оно сохраняется, и другая сторона получает уведомление."
+    }
+   },
+   {
+    "s": 77.792,
+    "e": 84.992,
+    "text": {
+     "en": "Plans changed? Move the lesson, until the end of the day before. A limited number of times a month, and with no penalty.",
+     "uz": "Reja o‘zgardimi? Darsni bir kun oldingi kun oxirigacha ko‘chiring. Oyiga cheklangan marta, jarimasiz.",
+     "ru": "Планы изменились? Перенесите урок до конца предыдущего дня. Ограниченное число раз в месяц и без штрафа."
+    }
+   },
+   {
+    "s": 85.928,
+    "e": 91.422,
+    "text": {
+     "en": "Confirmations, messages, reminders: they all arrive by themselves, on the phone too.",
+     "uz": "Tasdiqlar, xabarlar, eslatmalar: hammasi o‘zi keladi, telefonga ham.",
+     "ru": "Подтверждения, сообщения, напоминания: всё приходит само, и на телефон тоже."
+    }
+   },
+   {
+    "s": 92.284,
+    "e": 96.944,
+    "text": {
+     "en": "Now, remember those two students? Here they are. This is a real recording.",
+     "uz": "Endi, o‘sha ikki o‘quvchi esingizdami? Mana ular. Bu haqiqiy yozuv.",
+     "ru": "Помните тех двух учеников? Вот они. Это настоящая запись."
+    }
+   },
+   {
+    "s": 97.244,
+    "e": 104.357,
+    "text": {
+     "en": "One gets the lesson. The other learns that it was just taken, sees what is still free, and doesn’t even lose the topic.",
+     "uz": "Biri darsni oladi. Ikkinchisi vaqt hozirgina band bo‘lganini biladi, bo‘sh vaqtlarni ko‘radi va yozgan mavzusini ham yo‘qotmaydi.",
+     "ru": "Один получает урок. Другой узнаёт, что время только что заняли, видит свободное и даже не теряет тему."
+    }
+   },
+   {
+    "s": 105.25,
+    "e": 112.474,
+    "text": {
+     "en": "So who decided? Not the app. One rule inside the database: one teacher, one time, one lesson.",
+     "uz": "Xo‘sh, kim hal qildi? Ilova emas. Baza ichidagi bitta qoida: bitta o‘qituvchi, bitta vaqt, bitta dars.",
+     "ru": "Так кто решил? Не приложение. Одно правило внутри базы: один учитель, одно время, один урок."
+    }
+   },
+   {
+    "s": 112.774,
+    "e": 120.11,
+    "text": {
+     "en": "The first request fits. The second one breaks that rule, the database refuses it, and the student gets a clear answer.",
+     "uz": "Birinchi so‘rov sig‘adi. Ikkinchisi qoidani buzadi, baza uni rad etadi va o‘quvchi tushunarli javob oladi.",
+     "ru": "Первый запрос подходит. Второй нарушает правило, база отказывает, и ученик получает понятный ответ."
+    }
+   },
+   {
+    "s": 121.013,
+    "e": 129.066,
+    "text": {
+     "en": "Every request passes through gates like these. Any bans? The limits? The dates? Only then is the lesson written.",
+     "uz": "Har bir so‘rov shunday darvozalardan o‘tadi. Taqiq bormi? Limitlar-chi? Sana-chi? Faqat shundan keyin dars yoziladi.",
+     "ru": "Каждый запрос проходит через такие ворота. Есть запреты? Лимиты? Даты? Только тогда урок записывается."
+    }
+   },
+   {
+    "s": 129.366,
+    "e": 134.079,
+    "text": {
+     "en": "So change the app in your own browser, as much as you like. You gain nothing.",
+     "uz": "Demak, ilovani o‘z brauzeringizda xohlagancha o‘zgartiring. Hech narsa yutmaysiz.",
+     "ru": "Так что меняйте приложение в своём браузере сколько угодно. Вы ничего не получите."
+    }
+   },
+   {
+    "s": 136.521,
+    "e": 144.24,
+    "text": {
+     "en": "Lesson time. The teacher presses Came, and a code appears. The student scans it, and both phones turn to: Attended.",
+     "uz": "Dars vaqti. O‘qituvchi «Keldi»ni bosadi, kod chiqadi. O‘quvchi skanerlaydi va ikkala telefonda «Qatnashdi» chiqadi.",
+     "ru": "Время урока. Учитель нажимает «Пришёл», появляется код. Ученик сканирует его, и на обоих телефонах: «Был»."
+    }
+   },
+   {
+    "s": 145.165,
+    "e": 155.385,
+    "text": {
+     "en": "That code lives for forty-five seconds. A wrong guess is counted, and after twenty tries, the lesson locks. So no, guessing doesn’t work.",
+     "uz": "Bu kod 45 soniya yashaydi. Noto‘g‘ri urinish sanaladi, yigirmatadan keyin dars qulflanadi. Demak, yo‘q, taxmin qilish ish bermaydi.",
+     "ru": "Этот код живёт 45 секунд. Неверная попытка считается, и после двадцати урок блокируется. Так что угадать не выйдет."
+    }
+   },
+   {
+    "s": 156.352,
+    "e": 161.063,
+    "text": {
+     "en": "How was it? One to five stars. And only the centre reads the comments.",
+     "uz": "Qanday o‘tdi? Birdan beshgacha yulduz. Izohlarni esa faqat markaz o‘qiydi.",
+     "ru": "Как прошло? От одной до пяти звёзд. А комментарии читает только центр."
+    }
+   },
+   {
+    "s": 161.945,
+    "e": 168.402,
+    "text": {
+     "en": "The database takes a rating only from that student, only after the lesson, in time, and only once.",
+     "uz": "Baza bahoni faqat o‘sha o‘quvchidan, faqat darsdan keyin, muddatida va bir marta oladi.",
+     "ru": "База принимает оценку только от этого ученика, только после урока, в срок и один раз."
+    }
+   },
+   {
+    "s": 168.702,
+    "e": 171.816,
+    "text": {
+     "en": "A low rating? The administrators will hear about it.",
+     "uz": "Past bahomi? Administratorlar bundan xabar topadi.",
+     "ru": "Низкая оценка? Администраторы узнают."
+    }
+   },
+   {
+    "s": 174.911,
+    "e": 180.477,
+    "text": {
+     "en": "Every lesson is kept, with its result, and counted by week, by month and by year.",
+     "uz": "Har bir dars natijasi bilan saqlanadi va hafta, oy, yil bo‘yicha hisoblanadi.",
+     "ru": "Каждый урок сохраняется с результатом и считается по неделям, месяцам и годам."
+    }
+   },
+   {
+    "s": 181.521,
+    "e": 187.482,
+    "text": {
+     "en": "Something went wrong? Report it, and watch it move: received, being reviewed, answered.",
+     "uz": "Nimadir noto‘g‘ri ketdimi? Xabar bering va qanday borishini kuzating: qabul qilindi, ko‘rilyapti, javob berildi.",
+     "ru": "Что-то пошло не так? Сообщите и следите: получено, рассматривается, отвечено."
+    }
+   },
+   {
+    "s": 188.386,
+    "e": 193.758,
+    "text": {
+     "en": "Miss a lesson, and you get a warning. Miss another, and booking closes for a while.",
+     "uz": "Darsni qoldirsangiz, ogohlantirish keladi. Yana qoldirsangiz, bron biroz vaqtga yopiladi.",
+     "ru": "Пропустите урок, и придёт предупреждение. Пропустите ещё, и запись закроется на время."
+    }
+   },
+   {
+    "s": 194.742,
+    "e": 198.941,
+    "text": {
+     "en": "Already at the centre? Ask a teacher who is there for a lesson, right now.",
+     "uz": "Allaqachon markazdamisiz? U yerdagi o‘qituvchidan hozirning o‘zida dars so‘rang.",
+     "ru": "Уже в центре? Попросите учителя, который на месте, об уроке прямо сейчас."
+    }
+   },
+   {
+    "s": 199.826,
+    "e": 206.617,
+    "text": {
+     "en": "The function makes sure that no other request is waiting, and that the teacher is present today, and free at that time.",
+     "uz": "Funksiya boshqa so‘rov kutmayotganini, o‘qituvchi bugun markazda va shu vaqtda bo‘shligini tekshiradi.",
+     "ru": "Функция убеждается, что другой запрос не ждёт, а учитель сегодня на месте и свободен."
+    }
+   },
+   {
+    "s": 206.917,
+    "e": 210.121,
+    "text": {
+     "en": "Then the request pops up on the teacher’s phone, with a timer.",
+     "uz": "Keyin so‘rov o‘qituvchi telefonida taymer bilan chiqadi.",
+     "ru": "Затем запрос появляется на телефоне учителя с таймером."
+    }
+   },
+   {
+    "s": 213.301,
+    "e": 217.514,
+    "text": {
+     "en": "And the top students? There’s a ranking of who attended the most lessons.",
+     "uz": "Eng faol o‘quvchilar-chi? Eng ko‘p darsga qatnashganlar reytingi bor.",
+     "ru": "А лучшие ученики? Есть рейтинг тех, кто посетил больше всего уроков."
+    }
+   },
+   {
+    "s": 218.386,
+    "e": 219.648,
+    "text": {
+     "en": "Now, let’s switch sides.",
+     "uz": "Endi narigi tomonga o‘tamiz.",
+     "ru": "А теперь на другую сторону."
+    }
+   },
+   {
+    "s": 220.674,
+    "e": 225.002,
+    "text": {
+     "en": "The teacher opens Today, and sees who is coming, and what they want to study.",
+     "uz": "O‘qituvchi «Bugun»ni ochadi va kim kelishini, nimani o‘rganmoqchiligini ko‘radi.",
+     "ru": "Учитель открывает «Сегодня» и видит, кто придёт и что хочет изучить."
+    }
+   },
+   {
+    "s": 226.013,
+    "e": 233.052,
+    "text": {
+     "en": "The calendar shows the whole week. Can’t come? Close the day, and booked students are offered another teacher.",
+     "uz": "Taqvim butun haftani ko‘rsatadi. Kela olmaysizmi? Kunni yoping, bron qilganlarga boshqa o‘qituvchi taklif qilinadi.",
+     "ru": "Календарь показывает всю неделю. Не можете прийти? Закройте день, и ученикам предложат другого учителя."
+    }
+   },
+   {
+    "s": 233.894,
+    "e": 242.381,
+    "text": {
+     "en": "Teachers have to check in, too. This screen at reception shows a code that changes every ten seconds, and each code works just once.",
+     "uz": "O‘qituvchilar ham o‘zini qayd etadi. Qabulxonadagi ekranda har o‘n soniyada o‘zgaradigan kod bor, har biri bir marta ishlaydi.",
+     "ru": "Учителя тоже отмечаются. На экране в приёмной код меняется каждые десять секунд, и каждый работает один раз."
+    }
+   },
+   {
+    "s": 243.301,
+    "e": 251.749,
+    "text": {
+     "en": "Now watch the checks. Does the code exist? Is it unused? Less than twenty seconds old? And is the phone close enough?",
+     "uz": "Endi tekshiruvlarga qarang. Kod bormi? Ishlatilmaganmi? Yigirma soniyadan yangimi? Telefon yetarlicha yaqinmi?",
+     "ru": "Теперь следите за проверками. Код существует? Не использован? Моложе двадцати секунд? И телефон достаточно близко?"
+    }
+   },
+   {
+    "s": 252.049,
+    "e": 259.917,
+    "text": {
+     "en": "Then the phone sends numbers that describe the face. Seen before? Refused. New ones? Compared, on the server.",
+     "uz": "Keyin telefon yuzni tavsiflovchi sonlarni yuboradi. Oldin ko‘rilganmi? Rad. Yangimi? Serverda solishtiriladi.",
+     "ru": "Затем телефон отправляет числа, описывающие лицо. Уже были? Отказ. Новые? Сравниваются на сервере."
+    }
+   },
+   {
+    "s": 262.369,
+    "e": 270.013,
+    "text": {
+     "en": "And the admin? The day starts here, with what needs a person: lessons nobody marked, and complaints nobody answered.",
+     "uz": "Admin-chi? Kun shu yerdan, odam kerak bo‘lgan ishlardan boshlanadi: belgilanmagan darslar va javobsiz shikoyatlar.",
+     "ru": "А админ? День начинается здесь, с того, что требует человека: неотмеченные уроки и жалобы без ответа."
+    }
+   },
+   {
+    "s": 271.013,
+    "e": 275.849,
+    "text": {
+     "en": "Every lesson is here, with filters. And the admin can book for a student.",
+     "uz": "Har bir dars shu yerda, filtrlar bilan. Admin o‘quvchi uchun bron ham qila oladi.",
+     "ru": "Все уроки здесь, с фильтрами. И админ может записать ученика."
+    }
+   },
+   {
+    "s": 276.86,
+    "e": 283.838,
+    "text": {
+     "en": "A new account? Just a name and a birth year. The system makes the login, and a card with a QR code, ready to print.",
+     "uz": "Yangi akkauntmi? Faqat ism va tug‘ilgan yil. Tizim loginni o‘zi yasaydi, QR kodli karta esa chop etishga tayyor.",
+     "ru": "Новый аккаунт? Только имя и год рождения. Система создаёт логин и карточку с QR-кодом для печати."
+    }
+   },
+   {
+    "s": 284.742,
+    "e": 289.85,
+    "text": {
+     "en": "Closing a day? First, see which lessons it touches, and what will happen to each of them.",
+     "uz": "Kunni yopasizmi? Avval qaysi darslarga tegishini va har biriga nima bo‘lishini ko‘ring.",
+     "ru": "Закрываете день? Сначала посмотрите, каких уроков это коснётся и что будет с каждым."
+    }
+   },
+   {
+    "s": 290.843,
+    "e": 294.126,
+    "text": {
+     "en": "Bans can be changed, or lifted. Strikes can be removed.",
+     "uz": "Taqiqni o‘zgartirish yoki olib tashlash mumkin. Ogohlantirishni ham.",
+     "ru": "Запреты можно изменить или снять. Предупреждения можно удалить."
+    }
+   },
+   {
+    "s": 295.165,
+    "e": 298.912,
+    "text": {
+     "en": "Complaints get their answers here. Support teachers never see them.",
+     "uz": "Shikoyatlarga javob shu yerda beriladi. Support o‘qituvchilar ularni ko‘rmaydi.",
+     "ru": "На жалобы отвечают здесь. Support-учителя их не видят."
+    }
+   },
+   {
+    "s": 299.742,
+    "e": 304.599,
+    "text": {
+     "en": "Attendance, the busiest hours, how much each teacher works. It’s all counted.",
+     "uz": "Davomat, eng band soatlar, har o‘qituvchi qancha ishlashi. Hammasi hisoblanadi.",
+     "ru": "Посещаемость, самые загруженные часы, нагрузка каждого учителя. Всё посчитано."
+    }
+   },
+   {
+    "s": 305.589,
+    "e": 311.118,
+    "text": {
+     "en": "One message, to one person, all students, all support teachers, or everyone.",
+     "uz": "Bitta xabar: bir kishiga, barcha o‘quvchiga, barcha support o‘qituvchiga yoki hammaga.",
+     "ru": "Одно сообщение: одному человеку, всем ученикам, всем support-учителям или всем."
+    }
+   },
+   {
+    "s": 311.945,
+    "e": 319.334,
+    "text": {
+     "en": "And the rules themselves? They’re settings. The centre changes limits and deadlines without waiting for a release.",
+     "uz": "Qoidalarning o‘zi-chi? Ular sozlama. Markaz limit va muddatlarni reliz kutmasdan o‘zgartiradi.",
+     "ru": "А сами правила? Это настройки. Центр меняет лимиты и сроки без ожидания релиза."
+    }
+   },
+   {
+    "s": 320.335,
+    "e": 324.366,
+    "text": {
+     "en": "And the log remembers what the admin changed, and every attendance mark.",
+     "uz": "Jurnal esa admin nimani o‘zgartirganini va har bir davomat belgisini eslab qoladi.",
+     "ru": "А журнал помнит, что изменил админ, и каждую отметку посещения."
+    }
+   },
+   {
+    "s": 325.419,
+    "e": 335.079,
+    "text": {
+     "en": "And when nobody is looking? Once a minute, a job in the database checks the clock. A lesson is close, and not announced yet? It sends a reminder.",
+     "uz": "Hech kim qaramayotganda-chi? Har daqiqada bazadagi vazifa soatga qaraydi. Dars yaqin, lekin xabar berilmaganmi? Eslatma yuboradi.",
+     "ru": "А когда никто не смотрит? Раз в минуту задача в базе смотрит на часы. Урок скоро, а напоминания ещё не было? Она его отправляет."
+    }
+   },
+   {
+    "s": 335.379,
+    "e": 343.73,
+    "text": {
+     "en": "Nobody confirmed a lesson before the deadline? It’s marked as missed. But partway through, both sides are warned, so either one can put it right.",
+     "uz": "Muddatgacha hech kim tasdiqlamadimi? Dars o‘tkazib yuborilgan deb belgilanadi. Lekin yarim yo‘lda ikkala tomon ogohlantiriladi, xohlagan biri tuzata oladi.",
+     "ru": "Никто не подтвердил до срока? Урок отмечается пропущенным. Но на полпути предупреждают обе стороны, чтобы любая могла исправить."
+    }
+   },
+   {
+    "s": 344.742,
+    "e": 348.86,
+    "text": {
+     "en": "A lesson has a life of its own. Booked can become attended, or missed.",
+     "uz": "Darsning o‘z hayoti bor. Bron qilingan dars qatnashilgan yoki qoldirilgan bo‘ladi.",
+     "ru": "У урока своя жизнь. Записанный становится посещённым или пропущенным."
+    }
+   },
+   {
+    "s": 349.16,
+    "e": 356.626,
+    "text": {
+     "en": "A day is closed? Then it waits for another teacher, and goes back to booked. Nobody chooses one in time? Cancelled.",
+     "uz": "Kun yopildimi? Unda dars boshqa o‘qituvchini kutadi va yana bron holatiga qaytadi. Vaqtida hech kim tanlanmadimi? Bekor bo‘ladi.",
+     "ru": "День закрыли? Урок ждёт другого учителя и снова становится записанным. Никого не выбрали вовремя? Отменён."
+    }
+   },
+   {
+    "s": 357.453,
+    "e": 365.633,
+    "text": {
+     "en": "And here is the whole system, from above. Three apps: for students, teachers and the admin. They never touch the data themselves.",
+     "uz": "Mana butun tizim, tepadan. Uchta ilova: o‘quvchi, o‘qituvchi va admin uchun. Ular ma’lumotga o‘zi tegmaydi.",
+     "ru": "А вот вся система сверху. Три приложения: для учеников, учителей и админа. Сами они данных не касаются."
+    }
+   },
+   {
+    "s": 365.933,
+    "e": 375.311,
+    "text": {
+     "en": "Everything passes the rules first, and only then reaches the database. Every minute, a job looks for work. And the news goes to the phone.",
+     "uz": "Hammasi avval qoidalardan o‘tadi, keyin bazaga yetadi. Har daqiqada vazifa ish qidiradi. Yangilik esa telefonga boradi.",
+     "ru": "Всё сначала проходит правила и только потом попадает в базу. Каждую минуту задача ищет работу. А новости идут на телефон."
+    }
+   },
+   {
+    "s": 377.284,
+    "e": 382.794,
+    "text": {
+     "en": "OPUS Support went live in November twenty twenty-six, and the centre is just starting to use it.",
+     "uz": "OPUS Support 2026-yil noyabrda ishga tushdi, markaz uni endi ishlata boshlayapti.",
+     "ru": "OPUS Support запущен в ноябре 2026 года, и центр только начинает им пользоваться."
+    }
+   },
+   {
+    "s": 383.64,
+    "e": 388.555,
+    "text": {
+     "en": "All the people and data in this video are invented. The system is real.",
+     "uz": "Videodagi barcha odamlar va ma’lumotlar o‘ylab topilgan. Tizim esa haqiqiy.",
+     "ru": "Все люди и данные в этом видео выдуманы. Система настоящая."
+    }
+   }
+  ]
+ },
+ "k-talim": {
+  "src": "/videos/k-talim/film.mp4",
+  "preview": "/videos/k-talim/preview.mp4",
+  "poster": "/videos/k-talim/poster.jpg",
+  "duration": 443.898,
+  "chapters": [
+   {
+    "t": 0,
+    "title": {
+     "en": "The question",
+     "uz": "Savol",
+     "ru": "Вопрос"
+    }
+   },
+   {
+    "t": 5.8,
+    "title": {
+     "en": "What it is",
+     "uz": "Bu nima",
+     "ru": "Что это"
+    }
+   },
+   {
+    "t": 12.2,
+    "title": {
+     "en": "The daily plan",
+     "uz": "Kunlik reja",
+     "ru": "План на день"
+    }
+   },
+   {
+    "t": 21.8,
+    "title": {
+     "en": "Vocabulary",
+     "uz": "Lug‘at",
+     "ru": "Словарь"
+    }
+   },
+   {
+    "t": 47.2,
+    "title": {
+     "en": "Behind it: one answer",
+     "uz": "Orqasida: bitta javob",
+     "ru": "Внутри: один ответ"
+    }
+   },
+   {
+    "t": 62,
+    "title": {
+     "en": "Behind it: memory",
+     "uz": "Orqasida: xotira",
+     "ru": "Внутри: память"
+    }
+   },
+   {
+    "t": 84.1,
+    "title": {
+     "en": "Search",
+     "uz": "Qidiruv",
+     "ru": "Поиск"
+    }
+   },
+   {
+    "t": 103.2,
+    "title": {
+     "en": "Grammar",
+     "uz": "Grammatika",
+     "ru": "Грамматика"
+    }
+   },
+   {
+    "t": 109,
+    "title": {
+     "en": "Behind it: AI check",
+     "uz": "Orqasida: AI tekshiruvi",
+     "ru": "Внутри: проверка ИИ"
+    }
+   },
+   {
+    "t": 141.6,
+    "title": {
+     "en": "Exam practice",
+     "uz": "Imtihon mashqi",
+     "ru": "Практика экзамена"
+    }
+   },
+   {
+    "t": 149.4,
+    "title": {
+     "en": "A full paper",
+     "uz": "To‘liq imtihon",
+     "ru": "Полный экзамен"
+    }
+   },
+   {
+    "t": 175.1,
+    "title": {
+     "en": "The speaking partner",
+     "uz": "Suhbatdosh",
+     "ru": "Собеседник"
+    }
+   },
+   {
+    "t": 196.5,
+    "title": {
+     "en": "Behind it: one sentence",
+     "uz": "Orqasida: bitta gap",
+     "ru": "Внутри: одна фраза"
+    }
+   },
+   {
+    "t": 224.7,
+    "title": {
+     "en": "Live calls",
+     "uz": "Jonli suhbat",
+     "ru": "Живые звонки"
+    }
+   },
+   {
+    "t": 233.3,
+    "title": {
+     "en": "Behind it: matching",
+     "uz": "Orqasida: juftlash",
+     "ru": "Внутри: подбор"
+    }
+   },
+   {
+    "t": 269.4,
+    "title": {
+     "en": "Behind it: fair play",
+     "uz": "Orqasida: halollik",
+     "ru": "Внутри: честность"
+    }
+   },
+   {
+    "t": 299.2,
+    "title": {
+     "en": "Premium",
+     "uz": "Premium",
+     "ru": "Премиум"
+    }
+   },
+   {
+    "t": 314.4,
+    "title": {
+     "en": "Progress",
+     "uz": "Progress",
+     "ru": "Прогресс"
+    }
+   },
+   {
+    "t": 324.6,
+    "title": {
+     "en": "Weekly league",
+     "uz": "Haftalik liga",
+     "ru": "Недельная лига"
+    }
+   },
+   {
+    "t": 341.9,
+    "title": {
+     "en": "Study in Korea",
+     "uz": "Koreyada o‘qish",
+     "ru": "Учёба в Корее"
+    }
+   },
+   {
+    "t": 364,
+    "title": {
+     "en": "The admin panel",
+     "uz": "Admin panel",
+     "ru": "Админ-панель"
+    }
+   },
+   {
+    "t": 403.9,
+    "title": {
+     "en": "What it needs",
+     "uz": "Nima yetishmaydi",
+     "ru": "Чего не хватает"
+    }
+   }
+  ],
+  "cues": [
+   {
+    "s": 0.4,
+    "e": 2.734,
+    "text": {
+     "en": "Almost six thousand Korean words.",
+     "uz": "Qariyb olti ming koreyscha so‘z.",
+     "ru": "Почти шесть тысяч корейских слов."
+    }
+   },
+   {
+    "s": 3.809,
+    "e": 5.026,
+    "text": {
+     "en": "How do you keep them in your head?",
+     "uz": "Ularni qanday qilib yodda saqlaysiz?",
+     "ru": "Как удержать их в голове?"
+    }
+   },
+   {
+    "s": 6.347,
+    "e": 11.625,
+    "text": {
+     "en": "K-Talim is a site for learning Korean, explained in Uzbek, English or Russian.",
+     "uz": "K-TALIM koreys tilini o‘rganish sayti, o‘zbek, ingliz yoki rus tilida tushuntiradi.",
+     "ru": "K-TALIM: сайт для изучения корейского с объяснениями на узбекском, английском или русском."
+    }
+   },
+   {
+    "s": 12.453,
+    "e": 21.064,
+    "text": {
+     "en": "Every day starts with a plan: reviews, new words, grammar, exam practice, reading. And a daily goal that you set yourself.",
+     "uz": "Har kun rejadan boshlanadi: takrorlash, yangi so‘zlar, grammatika, imtihon mashqi, o‘qish. Va o‘zingiz qo‘ygan kunlik maqsad.",
+     "ru": "Каждый день начинается с плана: повторения, новые слова, грамматика, экзамен, чтение. И цель, которую вы ставите сами."
+    }
+   },
+   {
+    "s": 22.114,
+    "e": 29.561,
+    "text": {
+     "en": "The words are grouped into topics and levels, from beginner to TOPIK six, and every group keeps its own statistics.",
+     "uz": "So‘zlar mavzu va darajalarga bo‘lingan, boshlang‘ichdan TOPIK 6 gacha, har guruh o‘z statistikasini yuritadi.",
+     "ru": "Слова разбиты по темам и уровням, от начального до TOPIK 6, и у каждой группы своя статистика."
+    }
+   },
+   {
+    "s": 30.504,
+    "e": 35.636,
+    "text": {
+     "en": "New words come in short steps. See it. Hear it. Check the meaning. Then answer.",
+     "uz": "Yangi so‘zlar qisqa qadamlarda keladi. Ko‘ring. Eshiting. Ma’nosini tekshiring. Keyin javob bering.",
+     "ru": "Новые слова идут короткими шагами. Увидеть. Услышать. Проверить значение. Ответить."
+    }
+   },
+   {
+    "s": 36.606,
+    "e": 42.439,
+    "text": {
+     "en": "Then come the flashcards. How well did you remember? Again, hard, good, or easy.",
+     "uz": "Keyin kartochkalar. Qanchalik yaxshi esladingiz? Yana, qiyin, yaxshi yoki oson.",
+     "ru": "Затем карточки. Насколько хорошо вы вспомнили? Снова, трудно, хорошо или легко."
+    }
+   },
+   {
+    "s": 42.739,
+    "e": 46.55,
+    "text": {
+     "en": "And look: every button already shows when the card will come back.",
+     "uz": "Qarang: har bir tugmada karta qachon qaytishi yozilgan.",
+     "ru": "И смотрите: на каждой кнопке уже видно, когда карточка вернётся."
+    }
+   },
+   {
+    "s": 47.538,
+    "e": 50.706,
+    "text": {
+     "en": "Press Good, and the card is scheduled right on the device.",
+     "uz": "«Good» bosilsa, karta shu qurilmaning o‘zida rejalashtiriladi.",
+     "ru": "Нажмите «Good», и карточка планируется прямо на устройстве."
+    }
+   },
+   {
+    "s": 51.006,
+    "e": 59.097,
+    "text": {
+     "en": "Then the progress is saved to the account. There, database triggers check the points, and update the leaderboard and the weekly league.",
+     "uz": "Keyin progress akkauntga saqlanadi. U yerda baza triggerlari ballarni tekshiradi, reyting va haftalik ligani yangilaydi.",
+     "ru": "Затем прогресс сохраняется в аккаунт. Там триггеры базы проверяют очки и обновляют рейтинг и недельную лигу."
+    }
+   },
+   {
+    "s": 62.284,
+    "e": 75.63,
+    "text": {
+     "en": "But how does it know when? Behind the buttons is FSRS five, the scheduler that Anki also uses. Every card has a stability: the number of days until your chance of remembering falls to ninety percent.",
+     "uz": "Lekin u qachonligini qayerdan biladi? Tugmalar ortida FSRS-5 bor, Anki ham shuni ishlatadi. Har kartaning barqarorligi bor: eslash ehtimoli 90 foizga tushguncha bo‘lgan kunlar.",
+     "ru": "Но откуда он знает, когда? За кнопками FSRS-5, планировщик, который использует и Anki. У каждой карточки есть стабильность: число дней до падения вероятности вспомнить до 90 процентов."
+    }
+   },
+   {
+    "s": 75.93,
+    "e": 83.442,
+    "text": {
+     "en": "Answer Good, and the gap grows: four days. Fourteen. Forty-four. Forget it once, and it drops back to about four.",
+     "uz": "«Good» desangiz, oraliq o‘sadi: to‘rt kun. O‘n to‘rt. Qirq to‘rt. Bir marta unutsangiz, yana to‘rtga yaqin tushadi.",
+     "ru": "Отвечайте Good, и промежуток растёт: четыре дня. Четырнадцать. Сорок четыре. Забудьте один раз, и он упадёт примерно до четырёх."
+    }
+   },
+   {
+    "s": 84.403,
+    "e": 89.943,
+    "text": {
+     "en": "Looking for a word? Search in Korean, by its meaning, or just by how it sounds.",
+     "uz": "So‘z qidiryapsizmi? Koreyscha, ma’nosi yoki shunchaki eshitilishi bo‘yicha toping.",
+     "ru": "Ищете слово? По-корейски, по значению или просто по звучанию."
+    }
+   },
+   {
+    "s": 91.013,
+    "e": 102.421,
+    "text": {
+     "en": "Romanized Korean is spelled in many ways. So both sides are folded down to one rough key. G becomes K. Double letters become one. And suddenly, two spellings meet.",
+     "uz": "Koreyscha so‘z lotincha turlicha yoziladi. Shuning uchun ikkala tomon bitta kalitga keltiriladi. G harfi K bo‘ladi. Qo‘sh harf bitta bo‘ladi. Va ikki yozuv birdan uchrashadi.",
+     "ru": "Корейское слово латиницей пишут по-разному. Поэтому обе стороны сводятся к одному ключу. G становится K. Двойные буквы одной. И два написания вдруг сходятся."
+    }
+   },
+   {
+    "s": 103.47,
+    "e": 108.491,
+    "text": {
+     "en": "Each grammar pattern has examples with audio, and the mistakes that learners often make.",
+     "uz": "Har grammatik qolipda audioli misollar va ko‘p uchraydigan xatolar bor.",
+     "ru": "У каждой грамматики примеры со звуком и частые ошибки."
+    }
+   },
+   {
+    "s": 109.318,
+    "e": 112.401,
+    "text": {
+     "en": "Or write a sentence of your own, and let the AI check it.",
+     "uz": "Yoki o‘zingiz gap yozing, AI tekshirib beradi.",
+     "ru": "Или напишите своё предложение, и ИИ его проверит."
+    }
+   },
+   {
+    "s": 112.701,
+    "e": 119.703,
+    "text": {
+     "en": "The server takes only a signed-in learner, cuts the text to two hundred characters, and spends one check from the daily limit.",
+     "uz": "Server faqat tizimga kirgan o‘quvchini qabul qiladi, matnni 200 belgigacha qisqartiradi va kunlik limitdan bitta tekshiruv sarflaydi.",
+     "ru": "Сервер принимает только вошедшего ученика, обрезает текст до 200 знаков и тратит одну проверку из дневного лимита."
+    }
+   },
+   {
+    "s": 120.003,
+    "e": 129.183,
+    "text": {
+     "en": "And the model has to answer in a fixed form. Correct, or not? The corrected sentence, an explanation, a translation. All kept in the account.",
+     "uz": "Model esa belgilangan shaklda javob berishi shart. To‘g‘rimi yoki yo‘q? Tuzatilgan gap, izoh, tarjima. Hammasi akkauntda saqlanadi.",
+     "ru": "А модель обязана ответить по форме. Верно или нет? Исправленное предложение, объяснение, перевод. Всё хранится в аккаунте."
+    }
+   },
+   {
+    "s": 133.216,
+    "e": 140.824,
+    "text": {
+     "en": "Stories are built from the words of a topic. Tap a word, show a translation, listen, and answer questions at the end.",
+     "uz": "Hikoyalar mavzu so‘zlaridan tuzilgan. So‘zni bosing, tarjimasini oching, tinglang va oxirida savollarga javob bering.",
+     "ru": "Истории построены из слов темы. Нажмите на слово, откройте перевод, слушайте и ответьте на вопросы в конце."
+    }
+   },
+   {
+    "s": 141.86,
+    "e": 148.825,
+    "text": {
+     "en": "Exam practice runs against the clock, or one question type at a time, with an explanation after every answer.",
+     "uz": "Imtihon mashqi vaqtga qarab yoki bitta savol turi bo‘yicha boradi, har javobdan keyin izoh bor.",
+     "ru": "Практика экзамена идёт на время или по одному типу вопросов, с объяснением после каждого ответа."
+    }
+   },
+   {
+    "s": 149.742,
+    "e": 157.922,
+    "text": {
+     "en": "And this is a full reading paper. Forty questions, a timer, flags for later, translations, and the page of the original paper.",
+     "uz": "Bu esa to‘liq o‘qish imtihoni. 40 ta savol, taymer, keyinroq uchun belgi, tarjima va asl qog‘oz sahifasi.",
+     "ru": "А это полный экзамен по чтению. 40 вопросов, таймер, метки, перевод и страница оригинала."
+    }
+   },
+   {
+    "s": 158.894,
+    "e": 167.43,
+    "text": {
+     "en": "Every answer is saved on the device at once. A few seconds later it goes to the account, so the attempt is there, on every device.",
+     "uz": "Har javob darhol qurilmada saqlanadi. Bir necha soniyadan keyin akkauntga ketadi, shunda urinish hamma qurilmada bo‘ladi.",
+     "ru": "Каждый ответ сразу сохраняется на устройстве. Через несколько секунд он уходит в аккаунт, и попытка есть на всех устройствах."
+    }
+   },
+   {
+    "s": 167.73,
+    "e": 172.237,
+    "text": {
+     "en": "Started as a guest? The attempts move into the account when you sign in.",
+     "uz": "Mehmon bo‘lib boshladingizmi? Kirganingizda urinishlar akkauntga o‘tadi.",
+     "ru": "Начали как гость? Попытки перейдут в аккаунт, когда вы войдёте."
+    }
+   },
+   {
+    "s": 175.419,
+    "e": 178.038,
+    "text": {
+     "en": "Reading is one thing. But what about speaking?",
+     "uz": "O‘qish bir gap. Gapirish-chi?",
+     "ru": "Чтение это одно. А как же речь?"
+    }
+   },
+   {
+    "s": 179.233,
+    "e": 186.539,
+    "text": {
+     "en": "This is a real conversation with Friday, the AI partner. The learner chooses a level, and Friday opens with a question.",
+     "uz": "Bu AI sherik Friday bilan haqiqiy suhbat. O‘quvchi daraja tanlaydi, Friday savol bilan boshlaydi.",
+     "ru": "Это настоящий разговор с Friday, ИИ-собеседником. Ученик выбирает уровень, и Friday начинает с вопроса."
+    }
+   },
+   {
+    "s": 186.839,
+    "e": 195.833,
+    "text": {
+     "en": "Here, a recorded Korean voice is played into the microphone. The sentence appears as text, Friday answers it, and asks the next one.",
+     "uz": "Bu yerda mikrofonga yozib olingan koreyscha ovoz beriladi. Gap matnga aylanadi, Friday javob berib, keyingisini so‘raydi.",
+     "ru": "Здесь в микрофон подаётся записанный корейский голос. Фраза становится текстом, Friday отвечает и задаёт следующий вопрос."
+    }
+   },
+   {
+    "s": 196.775,
+    "e": 205.657,
+    "text": {
+     "en": "So what happens to one sentence? The server checks who is asking, makes sure that nobody sends too much, and looks at how many seconds are left for today.",
+     "uz": "Xo‘sh, bitta gapga nima bo‘ladi? Server kim so‘rayotganini tekshiradi, hech kim haddan oshmasligini nazorat qiladi va bugunga necha soniya qolganini ko‘radi.",
+     "ru": "Что же происходит с одной фразой? Сервер проверяет, кто спрашивает, следит, чтобы никто не слал слишком много, и смотрит, сколько секунд осталось на сегодня."
+    }
+   },
+   {
+    "s": 205.957,
+    "e": 214.209,
+    "text": {
+     "en": "Only then does the AI hear the recording. The time is added after the reply. And if the first AI fails, a second one takes over.",
+     "uz": "AI yozuvni faqat shundan keyin eshitadi. Vaqt javobdan keyin qo‘shiladi. Birinchi AI ishlamasa, ikkinchisi davom ettiradi.",
+     "ru": "Только тогда ИИ слышит запись. Время добавляется после ответа. А если первый ИИ не сработает, его заменит второй."
+    }
+   },
+   {
+    "s": 216.352,
+    "e": 223.996,
+    "text": {
+     "en": "And the counter? It works in one single step. If two requests arrive together, only one of them can take the last place.",
+     "uz": "Hisoblagich-chi? U bitta qadamda ishlaydi. Ikki so‘rov birga kelsa, oxirgi joyni faqat bittasi oladi.",
+     "ru": "А счётчик? Он работает за один шаг. Если два запроса придут вместе, последнее место займёт только один."
+    }
+   },
+   {
+    "s": 224.996,
+    "e": 232.69,
+    "text": {
+     "en": "But you can talk to real people, too. These are two test accounts. Each chooses a level, and who to talk to, and waits for a partner.",
+     "uz": "Lekin haqiqiy odamlar bilan ham gaplashish mumkin. Bular ikkita test akkaunt. Har biri daraja va kim bilan gaplashishni tanlab, sherik kutadi.",
+     "ru": "Но можно говорить и с живыми людьми. Это два тестовых аккаунта. Каждый выбирает уровень и собеседника и ждёт партнёра."
+    }
+   },
+   {
+    "s": 233.64,
+    "e": 245.444,
+    "text": {
+     "en": "First, the database checks the profile, the age, bans, and the time left today. Then it takes the learner who has waited longest, at the same level, if neither has blocked the other.",
+     "uz": "Avval baza profil, yosh, taqiqlar va bugun qolgan vaqtni tekshiradi. Keyin shu darajada eng uzoq kutgan o‘quvchini oladi, agar bir-birini bloklamagan bo‘lsa.",
+     "ru": "Сначала база проверяет профиль, возраст, запреты и остаток времени. Затем берёт того, кто дольше всех ждёт на том же уровне, если никто никого не блокировал."
+    }
+   },
+   {
+    "s": 245.744,
+    "e": 251.519,
+    "text": {
+     "en": "That row stays locked while it’s taken. So one person is never given to two callers.",
+     "uz": "Qator olinayotganda qulflanib turadi. Demak, bir odam hech qachon ikki kishiga berilmaydi.",
+     "ru": "Пока строка занята, она заблокирована. Поэтому одного человека не отдадут двоим."
+    }
+   },
+   {
+    "s": 256.013,
+    "e": 263.671,
+    "text": {
+     "en": "Both browsers say hello at a meeting point, and agree on how to connect. And then the voice goes directly, from one browser to the other.",
+     "uz": "Ikkala brauzer uchrashuv nuqtasida salom beradi va qanday ulanishni kelishib oladi. Keyin ovoz bir brauzerdan ikkinchisiga to‘g‘ridan to‘g‘ri boradi.",
+     "ru": "Оба браузера здороваются в точке встречи и договариваются, как соединиться. А потом голос идёт напрямую из одного браузера в другой."
+    }
+   },
+   {
+    "s": 263.971,
+    "e": 268.683,
+    "text": {
+     "en": "Calls are recorded and kept for thirty days, so that a report can be checked.",
+     "uz": "Qo‘ng‘iroqlar yozib olinadi va shikoyatni tekshirish uchun 30 kun saqlanadi.",
+     "ru": "Звонки записываются и хранятся 30 дней, чтобы можно было проверить жалобу."
+    }
+   },
+   {
+    "s": 269.742,
+    "e": 281.749,
+    "text": {
+     "en": "Now, could somebody cheat? Progress is saved from the device, so a database trigger trims what no person could earn. Three points a second, bursts of up to three hundred, three thousand a day.",
+     "uz": "Xo‘sh, kimdir aldashi mumkinmi? Progress qurilmadan saqlanadi, shuning uchun baza triggeri odam yig‘a olmaydiganini kesib tashlaydi. Soniyasiga uch ball, bir yo‘la uch yuzgacha, kuniga uch ming.",
+     "ru": "А можно ли схитрить? Прогресс сохраняется с устройства, поэтому триггер базы отрезает то, что человеку не набрать. Три очка в секунду, рывок до трёхсот, три тысячи в день."
+    }
+   },
+   {
+    "s": 282.708,
+    "e": 291.347,
+    "text": {
+     "en": "And if two devices hold different progress? They’re merged. Each word keeps its most recent record, and counters keep the larger value.",
+     "uz": "Ikki qurilmada progress har xil bo‘lsa-chi? Birlashtiriladi. Har so‘zning eng so‘nggi yozuvi qoladi, hisoblagichlarda kattasi.",
+     "ru": "А если на двух устройствах разный прогресс? Он объединяется. У слова остаётся самая свежая запись, у счётчиков большее значение."
+    }
+   },
+   {
+    "s": 292.369,
+    "e": 297.96,
+    "text": {
+     "en": "And every evening at eight, a job finds learners whose streak ends tonight, and reminds them.",
+     "uz": "Va har kuni kechqurun sakkizda vazifa bugun ketma-ketligi uziladigan o‘quvchilarni topib, eslatadi.",
+     "ru": "И каждый вечер в восемь задача находит тех, у кого сегодня прервётся серия, и напоминает им."
+    }
+   },
+   {
+    "s": 299.487,
+    "e": 309.109,
+    "text": {
+     "en": "What about Premium? It’s a date on the account, and only the server can set it. It raises the daily limits for AI checks, the tutor, and speaking.",
+     "uz": "Premium-chi? Bu akkauntdagi sana, uni faqat server qo‘ya oladi. U AI tekshiruvi, AI ustoz va suhbat kunlik limitlarini oshiradi.",
+     "ru": "А Премиум? Это дата в аккаунте, и поставить её может только сервер. Он увеличивает дневные лимиты проверки ИИ, репетитора и разговора."
+    }
+   },
+   {
+    "s": 309.409,
+    "e": 312.772,
+    "text": {
+     "en": "The limits are settings, so they change without a release.",
+     "uz": "Limitlar sozlamada turadi, ular relizsiz o‘zgaradi.",
+     "ru": "Лимиты хранятся в настройках и меняются без релиза."
+    }
+   },
+   {
+    "s": 314.742,
+    "e": 319.843,
+    "text": {
+     "en": "Statistics count streaks, accuracy, study time, and how many words are mastered.",
+     "uz": "Statistika ketma-ketlik, aniqlik, o‘qish vaqti va o‘zlashtirilgan so‘zlarni hisoblaydi.",
+     "ru": "Статистика считает серии, точность, время учёбы и освоенные слова."
+    }
+   },
+   {
+    "s": 320.843,
+    "e": 324.011,
+    "text": {
+     "en": "Thirty-seven badges, and levels, mark the way.",
+     "uz": "37 ta nishon va darajalar yo‘lni belgilaydi.",
+     "ru": "37 значков и уровни отмечают путь."
+    }
+   },
+   {
+    "s": 324.911,
+    "e": 332.181,
+    "text": {
+     "en": "Then there’s the weekly league: groups of up to thirty learners, and the top five move up on Monday. The names are hidden here.",
+     "uz": "Keyin haftalik liga: 30 tagacha o‘quvchilik guruhlar, dushanba kuni eng yaxshi besh kishi yuqoriga chiqadi. Ismlar bu yerda yashirilgan.",
+     "ru": "Ещё есть недельная лига: группы до 30 человек, и в понедельник пятеро лучших поднимаются. Имена здесь скрыты."
+    }
+   },
+   {
+    "s": 333.047,
+    "e": 341.348,
+    "text": {
+     "en": "Groups are filled under a lock, one learner after another. So two people who join together can’t both take the last place.",
+     "uz": "Guruhlar qulf ostida, birma-bir to‘ldiriladi. Shuning uchun birga kelgan ikki kishi oxirgi joyni baravar ololmaydi.",
+     "ru": "Группы заполняются под блокировкой, по одному. Поэтому двое, пришедшие вместе, не займут одно последнее место."
+    }
+   },
+   {
+    "s": 342.199,
+    "e": 350.166,
+    "text": {
+     "en": "Study in Korea lists three hundred and sixty-seven universities, with certification, tuition, scholarships, and visa steps.",
+     "uz": "«Koreyada o‘qish» bo‘limida 367 ta universitet, sertifikati, kontrakti, grantlar va viza bosqichlari bor.",
+     "ru": "В разделе «Учёба в Корее» 367 университетов, сертификация, стоимость, стипендии и виза."
+    }
+   },
+   {
+    "s": 351.097,
+    "e": 362.249,
+    "text": {
+     "en": "And the AI advisor? It gets only this catalogue and official facts. If the answer isn’t there, it has to say so. And universities that aren’t in the catalogue are dropped from the reply.",
+     "uz": "AI maslahatchi-chi? U faqat shu katalog va rasmiy ma’lumotlarni oladi. Javob u yerda bo‘lmasa, buni aytishi shart. Katalogda yo‘q universitetlar javobdan olib tashlanadi.",
+     "ru": "А ИИ-советник? Он получает только этот каталог и официальные факты. Если ответа нет, он обязан это сказать. А университеты не из каталога убираются из ответа."
+    }
+   },
+   {
+    "s": 364.318,
+    "e": 376.551,
+    "text": {
+     "en": "Now, behind the curtain: the admin panel. Seven hundred and ninety-four words in thirty-two topics, plus the official TOPIK word lists. And twenty-three exam papers, with almost two thousand questions.",
+     "uz": "Endi parda ortiga: admin panel. 32 mavzuda 794 so‘z, ustiga rasmiy TOPIK lug‘atlari. Va qariyb ikki ming savolli 23 ta imtihon.",
+     "ru": "А теперь за кулисы: админ-панель. 794 слова в 32 темах, плюс официальные словари TOPIK. И 23 экзамена, почти две тысячи вопросов."
+    }
+   },
+   {
+    "s": 377.538,
+    "e": 383.364,
+    "text": {
+     "en": "A word’s meanings, romanization and example can be corrected here, in three languages.",
+     "uz": "So‘zning ma’nolari, o‘qilishi va misolini shu yerda uch tilda tuzatish mumkin.",
+     "ru": "Значения слова, транскрипцию и пример можно исправить здесь, на трёх языках."
+    }
+   },
+   {
+    "s": 384.403,
+    "e": 394.239,
+    "text": {
+     "en": "Before an edited story or grammar page is saved, its old version goes into the history, so it can be brought back. And learners get the change without a new release.",
+     "uz": "Tahrirlangan hikoya yoki grammatika saqlanishidan oldin eski holati tarixga yoziladi, uni qaytarish mumkin. O‘quvchilar esa o‘zgarishni yangi relizsiz oladi.",
+     "ru": "Перед сохранением истории или грамматики старая версия уходит в историю, её можно вернуть. А ученики получают изменение без нового релиза."
+    }
+   },
+   {
+    "s": 395.081,
+    "e": 403.197,
+    "text": {
+     "en": "The user list has filters for activity, Premium, blocks, and deletion requests. Personal data is blurred here.",
+     "uz": "Foydalanuvchilar ro‘yxatida faollik, Premium, blok va o‘chirish so‘rovi filtrlari bor. Shaxsiy ma’lumotlar xiralashtirilgan.",
+     "ru": "В списке пользователей фильтры: активность, Premium, блокировки и запросы на удаление. Личные данные размыты."
+    }
+   },
+   {
+    "s": 404.233,
+    "e": 407.091,
+    "text": {
+     "en": "Now, the honest part. Some things are still limited.",
+     "uz": "Endi ochig‘ini aytaylik. Ba’zi narsalar hali cheklangan.",
+     "ru": "Теперь честно. Кое-что пока ограничено."
+    }
+   },
+   {
+    "s": 407.391,
+    "e": 412.598,
+    "text": {
+     "en": "The AI partner has a daily allowance: ten minutes free, two hours with Premium.",
+     "uz": "AI sherikning kunlik limiti bor: bepul 10 daqiqa, Premium bilan 2 soat.",
+     "ru": "У ИИ-собеседника есть дневной лимит: 10 минут бесплатно, 2 часа с Premium."
+    }
+   },
+   {
+    "s": 412.898,
+    "e": 422.424,
+    "text": {
+     "en": "Only two hundred and seventy-eight words are read by real people. The rest use AI or browser voices, so the pronunciation can sound unnatural.",
+     "uz": "Faqat 278 ta so‘zni haqiqiy odamlar o‘qigan. Qolganini AI yoki brauzer ovozi o‘qiydi, shuning uchun talaffuz tabiiy eshitilmasligi mumkin.",
+     "ru": "Только 278 слов прочитаны живыми людьми. Остальные озвучивают ИИ или голос браузера, поэтому произношение может звучать неестественно."
+    }
+   },
+   {
+    "s": 422.724,
+    "e": 426.112,
+    "text": {
+     "en": "And Friday runs on light, low-cost AI models.",
+     "uz": "Friday esa yengil, arzon AI modellarda ishlaydi.",
+     "ru": "А Friday работает на лёгких, недорогих моделях ИИ."
+    }
+   },
+   {
+    "s": 426.412,
+    "e": 438.33,
+    "text": {
+     "en": "With extra budget, that changes. A professional Korean voice for every word and story. Stronger AI, for more natural speech and better corrections. And bigger daily allowances.",
+     "uz": "Qo‘shimcha byudjet bilan bu o‘zgaradi. Har bir so‘z va hikoya uchun professional koreyscha ovoz. Tabiiyroq nutq va aniqroq tuzatish uchun kuchliroq AI. Va kattaroq kunlik limitlar.",
+     "ru": "С дополнительным бюджетом это изменится. Профессиональный корейский голос для каждого слова и истории. Более сильный ИИ: естественнее речь и точнее исправления. И больше дневные лимиты."
+    }
+   },
+   {
+    "s": 440.081,
+    "e": 442.139,
+    "text": {
+     "en": "It’s live, at k-talim dot u z.",
+     "uz": "U jonli: ktalim.uz.",
+     "ru": "Сайт работает: ktalim.uz."
+    }
+   }
+  ]
+ },
+ "omzu": {
+  "src": "/videos/omzu/film.mp4",
+  "preview": "/videos/omzu/preview.mp4",
+  "poster": "/videos/omzu/poster.jpg",
+  "duration": 173.898,
+  "chapters": [
+   {
+    "t": 0,
+    "title": {
+     "en": "Start",
+     "uz": "Boshlanish",
+     "ru": "Начало"
+    }
+   },
+   {
+    "t": 8.8,
+    "title": {
+     "en": "What it is",
+     "uz": "Bu nima",
+     "ru": "Что это"
+    }
+   },
+   {
+    "t": 17,
+    "title": {
+     "en": "Using it",
+     "uz": "Ishlatish",
+     "ru": "Использование"
+    }
+   },
+   {
+    "t": 60,
+    "title": {
+     "en": "Behind it: the router",
+     "uz": "Orqasida: yo‘naltirgich",
+     "ru": "Внутри: маршрутизатор"
+    }
+   },
+   {
+    "t": 78,
+    "title": {
+     "en": "When it does not know",
+     "uz": "Bilmaganda",
+     "ru": "Когда не знает"
+    }
+   },
+   {
+    "t": 86.4,
+    "title": {
+     "en": "Behind it: the model",
+     "uz": "Orqasida: model",
+     "ru": "Внутри: модель"
+    }
+   },
+   {
+    "t": 131.1,
+    "title": {
+     "en": "Where it fails",
+     "uz": "Qayerda xato qiladi",
+     "ru": "Где ошибается"
+    }
+   },
+   {
+    "t": 140,
+    "title": {
+     "en": "Behind it: why it failed",
+     "uz": "Orqasida: nega xato",
+     "ru": "Внутри: почему ошибся"
+    }
+   },
+   {
+    "t": 156.3,
+    "title": {
+     "en": "The test",
+     "uz": "Sinov",
+     "ru": "Проверка"
+    }
+   }
+  ],
+  "cues": [
+   {
+    "s": 0.4,
+    "e": 4.065,
+    "text": {
+     "en": "It answers questions in Uzbek. And it runs on a laptop.",
+     "uz": "Bu o‘zbekcha savollarga javob beradi. U noutbukda ishlaydi.",
+     "ru": "Он отвечает на вопросы по-узбекски. И работает на ноутбуке."
+    }
+   },
+   {
+    "s": 5.081,
+    "e": 7.993,
+    "text": {
+     "en": "And sometimes, it’s wrong. You’ll see that too.",
+     "uz": "Ba’zan esa u xato qiladi. Buni ham ko‘rasiz.",
+     "ru": "А иногда он ошибается. Вы увидите и это."
+    }
+   },
+   {
+    "s": 9.398,
+    "e": 16.303,
+    "text": {
+     "en": "Meet OMZU, an assistant for Uzbek, with a small language model trained on Kaggle. It isn’t deployed.",
+     "uz": "OMZU bilan tanishing: o‘zbek tili uchun yordamchi, ichida Kaggle’da o‘qitilgan kichik til modeli bor. U deploy qilinmagan.",
+     "ru": "Знакомьтесь, OMZU: ассистент для узбекского с небольшой языковой моделью, обученной на Kaggle. Он не развёрнут."
+    }
+   },
+   {
+    "s": 17.284,
+    "e": 25.949,
+    "text": {
+     "en": "A model this small shouldn’t guess live facts. Weather? Exchange rates? Those come from tools, and the answer names its source.",
+     "uz": "Bunday kichik model jonli faktlarni taxmin qilmasligi kerak. Ob-havo? Valyuta kursi? Ular vositalardan keladi va javobda manba aytiladi.",
+     "ru": "Такой маленькой модели нельзя угадывать живые факты. Погода? Курс валют? Это дают инструменты, и ответ называет источник."
+    }
+   },
+   {
+    "s": 26.945,
+    "e": 34.334,
+    "text": {
+     "en": "Facts are searched in two hundred and thirty-one thousand Uzbek Wikipedia articles. Let’s ask: who was Ulugh Beg?",
+     "uz": "Faktlar o‘zbekcha Vikipediyaning 231 ming maqolasidan qidiriladi. So‘raymiz: Ulug‘bek kim bo‘lgan?",
+     "ru": "Факты ищутся в 231 тысяче статей узбекской Википедии. Спросим: кем был Улугбек?"
+    }
+   },
+   {
+    "s": 34.634,
+    "e": 43.17,
+    "text": {
+     "en": "The words are shortened to their roots, and looked up in an index. The best passages come back. Are they really about the question? Only those go to the model.",
+     "uz": "So‘zlar o‘zagigacha qisqartirilib, indeksdan qidiriladi. Eng yaxshi parchalar qaytadi. Ular rostdan savol haqidami? Faqat shundaylari modelga beriladi.",
+     "ru": "Слова сокращаются до корней и ищутся в индексе. Лучшие отрывки возвращаются. Они действительно о вопросе? Только такие идут в модель."
+    }
+   },
+   {
+    "s": 48.555,
+    "e": 52.948,
+    "text": {
+     "en": "Inside the index, every word keeps a list of the passages it appears in.",
+     "uz": "Indeks ichida har bir so‘z qaysi parchalarda borligining ro‘yxatini saqlaydi.",
+     "ru": "Внутри индекса каждое слово хранит список отрывков, где оно встречается."
+    }
+   },
+   {
+    "s": 53.248,
+    "e": 58.591,
+    "text": {
+     "en": "Run through the lists, and only some passages meet in all of them. Those get a score.",
+     "uz": "Ro‘yxatlar bo‘ylab yurilsa, faqat ba’zi parchalar hammasida uchrashadi. Ular ball oladi.",
+     "ru": "Пройдите по спискам, и лишь некоторые отрывки встретятся во всех. Они получают балл."
+    }
+   },
+   {
+    "s": 60.25,
+    "e": 68.252,
+    "text": {
+     "en": "So here’s the path of one question. About weather, rates or sums? A tool answers, and the model isn’t used at all.",
+     "uz": "Mana bitta savolning yo‘li. Ob-havo, kurs yoki hisob haqidami? Vosita javob beradi, model umuman ishlatilmaydi.",
+     "ru": "Вот путь одного вопроса. О погоде, курсе или вычислении? Отвечает инструмент, а модель не используется."
+    }
+   },
+   {
+    "s": 68.552,
+    "e": 76.457,
+    "text": {
+     "en": "Anything else is searched. The best passages are checked against the question, and only then does the model write an answer from them.",
+     "uz": "Qolgan hammasi qidiriladi. Eng yaxshi parchalar savol bilan solishtiriladi, shundan keyingina model ulardan javob yozadi.",
+     "ru": "Всё остальное ищется. Лучшие отрывки сверяются с вопросом, и только потом модель пишет по ним ответ."
+    }
+   },
+   {
+    "s": 78.301,
+    "e": 85.86,
+    "text": {
+     "en": "And when nothing reliable is found, it says so. Asked for a neighbour’s phone number, it answers that it has no certain information.",
+     "uz": "Ishonchli narsa topilmasa, shunday deydi. Qo‘shnining telefon raqami so‘ralganda, aniq ma’lumot yo‘qligini aytadi.",
+     "ru": "А если ничего надёжного не найдено, он так и говорит. На вопрос о телефоне соседа он отвечает, что точных данных нет."
+    }
+   },
+   {
+    "s": 86.691,
+    "e": 97.298,
+    "text": {
+     "en": "Now, the model itself. Uzbek and English text is cleaned, and converted to one alphabet. Then a tokenizer is trained on it, with thirty-two thousand pieces.",
+     "uz": "Endi modelning o‘zi. O‘zbekcha va inglizcha matn tozalanib, bitta alifboga o‘tkaziladi. Keyin unda 32 ming bo‘lakli tokenizer o‘qitiladi.",
+     "ru": "Теперь сама модель. Узбекский и английский текст очищается и приводится к одному алфавиту. Затем на нём обучается токенизатор на 32 тысячи частей."
+    }
+   },
+   {
+    "s": 97.598,
+    "e": 102.78,
+    "text": {
+     "en": "The model is pretrained on Kaggle graphics cards, then fine-tuned on questions and answers.",
+     "uz": "Model Kaggle videokartalarida pretrain qilinadi, so‘ng savol-javoblarda fine-tune qilinadi.",
+     "ru": "Модель предобучается на видеокартах Kaggle, затем дообучается на вопросах и ответах."
+    }
+   },
+   {
+    "s": 104.487,
+    "e": 110.573,
+    "text": {
+     "en": "And it doesn’t see letters. This question becomes five pieces, and each piece is a number.",
+     "uz": "U harflarni ko‘rmaydi. Bu savol besh bo‘lakka aylanadi, har bo‘lak bitta son.",
+     "ru": "И она не видит букв. Этот вопрос становится пятью частями, и каждая часть это число."
+    }
+   },
+   {
+    "s": 110.873,
+    "e": 117.16,
+    "text": {
+     "en": "A long Uzbek word, “from our books”, needs only two: the root, and everything joined to it.",
+     "uz": "Uzun o‘zbekcha so‘z, «kitoblarimizdan», atigi ikkitani oladi: o‘zak va unga qo‘shilgan hammasi.",
+     "ru": "Длинному узбекскому слову «из наших книг» нужно всего две: корень и всё, что к нему присоединено."
+    }
+   },
+   {
+    "s": 118.216,
+    "e": 124.005,
+    "text": {
+     "en": "About one hundred and ten million parameters, in twelve layers. A word climbs through all of them.",
+     "uz": "Taxminan 110 million parametr, o‘n ikki qatlam. So‘z hammasidan o‘tib ko‘tariladi.",
+     "ru": "Около 110 миллионов параметров в двенадцати слоях. Слово поднимается через все."
+    }
+   },
+   {
+    "s": 124.305,
+    "e": 129.354,
+    "text": {
+     "en": "A cache keeps the earlier tokens, so each new word doesn’t repeat the work.",
+     "uz": "Kesh oldingi tokenlarni saqlaydi, shuning uchun yangi so‘z eski ishni takrorlamaydi.",
+     "ru": "Кэш хранит прежние токены, поэтому новое слово не повторяет старую работу."
+    }
+   },
+   {
+    "s": 131.436,
+    "e": 133.582,
+    "text": {
+     "en": "And now, the promised mistake.",
+     "uz": "Va endi, va’da qilingan xato.",
+     "ru": "А теперь обещанная ошибка."
+    }
+   },
+   {
+    "s": 134.742,
+    "e": 139.3,
+    "text": {
+     "en": "Asked what the Silk Road was, it describes a radio station. With the same name.",
+     "uz": "Ipak yo‘li nima deb so‘ralsa, u radiostansiyani ta’riflaydi. Xuddi shu nomli.",
+     "ru": "На вопрос о Шёлковом пути он описывает радиостанцию. С таким же названием."
+    }
+   },
+   {
+    "s": 140.335,
+    "e": 150.849,
+    "text": {
+     "en": "Why? These are the real scores. First the search matches the text. Then it multiplies the score for a matching title. And all four titles match equally well.",
+     "uz": "Nega? Bular haqiqiy ballar. Avval qidiruv matnni solishtiradi. Keyin sarlavha mos kelsa, ballni ko‘paytiradi. To‘rtala sarlavha ham bir xil mos.",
+     "ru": "Почему? Это реальные баллы. Сначала поиск сопоставляет текст. Затем умножает балл за совпавший заголовок. А все четыре заголовка совпадают одинаково."
+    }
+   },
+   {
+    "s": 151.149,
+    "e": 155.701,
+    "text": {
+     "en": "The radio station wins, by one point six. That’s the whole mistake.",
+     "uz": "Radio 1,6 ballga yutadi. Xatoning hammasi shu.",
+     "ru": "Радио выигрывает на 1,6. Вот и вся ошибка."
+    }
+   },
+   {
+    "s": 156.606,
+    "e": 162.006,
+    "text": {
+     "en": "So how good is it? It was tested with fifty-two questions, and got thirty-six right.",
+     "uz": "Xo‘sh, u qanchalik yaxshi? U 52 ta savol bilan sinaldi va 36 tasiga to‘g‘ri javob berdi deb topildi.",
+     "ru": "Насколько же он хорош? Его проверили на 52 вопросах, и 36 ответов засчитаны."
+    }
+   },
+   {
+    "s": 163.216,
+    "e": 168.324,
+    "text": {
+     "en": "But the test only looks for key words. It even counted the radio station as correct.",
+     "uz": "Lekin test faqat kalit so‘zlarni qidiradi. U hatto radiostansiyani ham to‘g‘ri deb sanagan.",
+     "ru": "Но тест ищет только ключевые слова. Он засчитал даже радиостанцию."
+    }
+   },
+   {
+    "s": 168.624,
+    "e": 172.383,
+    "text": {
+     "en": "So the real score is lower. And now you know exactly why.",
+     "uz": "Demak, haqiqiy natija pastroq. Endi nega bunday ekanini aniq bilasiz.",
+     "ru": "Значит, настоящий результат ниже. И теперь вы точно знаете почему."
+    }
+   }
+  ]
+ },
+ "ielts-reading": {
+  "src": "/videos/ielts-reading/film.mp4",
+  "preview": "/videos/ielts-reading/preview.mp4",
+  "poster": "/videos/ielts-reading/poster.jpg",
+  "duration": 68.39,
+  "chapters": [
+   {
+    "t": 0,
+    "title": {
+     "en": "Start",
+     "uz": "Boshlanish",
+     "ru": "Начало"
+    }
+   },
+   {
+    "t": 7.1,
+    "title": {
+     "en": "What it is",
+     "uz": "Bu nima",
+     "ru": "Что это"
+    }
+   },
+   {
+    "t": 19.8,
+    "title": {
+     "en": "Reading",
+     "uz": "O‘qish",
+     "ru": "Чтение"
+    }
+   },
+   {
+    "t": 28.7,
+    "title": {
+     "en": "Behind it: one answer",
+     "uz": "Orqasida: bitta javob",
+     "ru": "Внутри: один ответ"
+    }
+   },
+   {
+    "t": 43.7,
+    "title": {
+     "en": "Listening",
+     "uz": "Tinglash",
+     "ru": "Аудирование"
+    }
+   },
+   {
+    "t": 51.3,
+    "title": {
+     "en": "Behind it: progress",
+     "uz": "Orqasida: natijalar",
+     "ru": "Внутри: прогресс"
+    }
+   }
+  ],
+  "cues": [
+   {
+    "s": 0.4,
+    "e": 4.831,
+    "text": {
+     "en": "A long text. Fourteen questions. And twenty minutes on the clock.",
+     "uz": "Uzun matn. O‘n to‘rtta savol. Va soatda yigirma daqiqa.",
+     "ru": "Длинный текст. Четырнадцать вопросов. И двадцать минут на часах."
+    }
+   },
+   {
+    "s": 5.843,
+    "e": 6.268,
+    "text": {
+     "en": "Ready?",
+     "uz": "Tayyormisiz?",
+     "ru": "Готовы?"
+    }
+   },
+   {
+    "s": 7.619,
+    "e": 13.117,
+    "text": {
+     "en": "This is IELTS Practice: reading, listening, writing, and full mock tests.",
+     "uz": "Bu IELTS Practice: o‘qish, tinglash, yozish va to‘liq mock testlar.",
+     "ru": "Это IELTS Practice: чтение, аудирование, письмо и полные пробные тесты."
+    }
+   },
+   {
+    "s": 13.979,
+    "e": 19.26,
+    "text": {
+     "en": "There are thirty-three reading passages, with filters for difficulty and question type.",
+     "uz": "33 ta o‘qish matni bor, qiyinlik va savol turi bo‘yicha filtr bilan.",
+     "ru": "Тридцать три текста для чтения, с фильтрами по сложности и типу вопросов."
+    }
+   },
+   {
+    "s": 20.081,
+    "e": 27.982,
+    "text": {
+     "en": "The text sits beside the questions, with a timer, a highlighter, and notes. And before you submit, it shows what is still unanswered.",
+     "uz": "Matn savollar yonida turadi, taymer, belgilagich va eslatmalar bilan. Topshirishdan oldin javobsiz qolganlarini ko‘rsatadi.",
+     "ru": "Текст рядом с вопросами, есть таймер, маркер и заметки. А перед сдачей видно, что осталось без ответа."
+    }
+   },
+   {
+    "s": 28.979,
+    "e": 33.84,
+    "text": {
+     "en": "Every answer is saved as a draft on the device, together with the time that’s left.",
+     "uz": "Har javob qolgan vaqt bilan birga qurilmada qoralama sifatida saqlanadi.",
+     "ru": "Каждый ответ сохраняется на устройстве как черновик вместе с оставшимся временем."
+    }
+   },
+   {
+    "s": 34.14,
+    "e": 40.726,
+    "text": {
+     "en": "And when you submit? The result is stored here first, so the result screen never waits for the network.",
+     "uz": "Topshirsangiz-chi? Natija avval shu yerda saqlanadi, natija ekrani tarmoqni kutmaydi.",
+     "ru": "А при сдаче? Результат сначала сохраняется здесь, и экран результата не ждёт сеть."
+    }
+   },
+   {
+    "s": 43.979,
+    "e": 50.733,
+    "text": {
+     "en": "Listening has four full tests. Results stay in the browser, and with an account, they follow you across devices.",
+     "uz": "Tinglashda 4 ta to‘liq test bor. Natijalar brauzerda turadi, akkaunt bilan esa boshqa qurilmalarga ham o‘tadi.",
+     "ru": "В аудировании четыре полных теста. Результаты хранятся в браузере, а с аккаунтом доступны на всех устройствах."
+    }
+   },
+   {
+    "s": 51.606,
+    "e": 60.437,
+    "text": {
+     "en": "But what if you practise as a guest, and sign in later? The attempts are merged by their id. None is counted twice, and the best score wins.",
+     "uz": "Mehmon bo‘lib mashq qilib, keyin kirsangiz-chi? Urinishlar id bo‘yicha birlashtiriladi. Hech biri ikki marta sanalmaydi, eng yaxshi ball yutadi.",
+     "ru": "А если заниматься гостем и войти позже? Попытки объединяются по id. Ни одна не считается дважды, побеждает лучший балл."
+    }
+   },
+   {
+    "s": 61.267,
+    "e": 66.709,
+    "text": {
+     "en": "It’s built with Next and Supabase. And all the passages are unofficial practice content.",
+     "uz": "U Next va Supabase’da qurilgan. Barcha matnlar norasmiy mashq materiali.",
+     "ru": "Он построен на Next и Supabase. И все тексты это неофициальные материалы."
+    }
+   }
+  ]
+ },
+ "crypto-dashboard": {
+  "src": "/videos/crypto-dashboard/film.mp4",
+  "preview": "/videos/crypto-dashboard/preview.mp4",
+  "poster": "/videos/crypto-dashboard/poster.jpg",
+  "duration": 54.661,
+  "chapters": [
+   {
+    "t": 0,
+    "title": {
+     "en": "Start",
+     "uz": "Boshlanish",
+     "ru": "Начало"
+    }
+   },
+   {
+    "t": 8.8,
+    "title": {
+     "en": "Prices",
+     "uz": "Narxlar",
+     "ru": "Цены"
+    }
+   },
+   {
+    "t": 17.2,
+    "title": {
+     "en": "Behind the click",
+     "uz": "Bosish ortida",
+     "ru": "За нажатием"
+    }
+   },
+   {
+    "t": 26.4,
+    "title": {
+     "en": "The table",
+     "uz": "Jadval",
+     "ru": "Таблица"
+    }
+   },
+   {
+    "t": 42.9,
+    "title": {
+     "en": "What is missing",
+     "uz": "Nima yetishmaydi",
+     "ru": "Чего не хватает"
+    }
+   }
+  ],
+  "cues": [
+   {
+    "s": 0.4,
+    "e": 2.483,
+    "text": {
+     "en": "How much is one coin worth, right now?",
+     "uz": "Bitta koin ayni hozir qancha turadi?",
+     "ru": "Сколько стоит одна монета прямо сейчас?"
+    }
+   },
+   {
+    "s": 3.805,
+    "e": 8.198,
+    "text": {
+     "en": "This dashboard asks CoinGecko, a public service, and shows you the answer.",
+     "uz": "Bu panel ochiq CoinGecko xizmatidan so‘raydi va javobini ko‘rsatadi.",
+     "ru": "Эта панель спрашивает открытый сервис CoinGecko и показывает ответ."
+    }
+   },
+   {
+    "s": 9.148,
+    "e": 15.481,
+    "text": {
+     "en": "Popular coins slide across the top. Below them is a table that you can search, and page through.",
+     "uz": "Tepada mashhur koinlar aylanadi. Pastda esa qidirish va sahifalash mumkin bo‘lgan jadval.",
+     "ru": "Сверху движутся популярные монеты. Ниже таблица с поиском и страницами."
+    }
+   },
+   {
+    "s": 15.781,
+    "e": 16.606,
+    "text": {
+     "en": "Let’s open one.",
+     "uz": "Keling, bittasini ochamiz.",
+     "ru": "Откроем одну."
+    }
+   },
+   {
+    "s": 17.538,
+    "e": 20.01,
+    "text": {
+     "en": "One more request goes out, for this coin alone.",
+     "uz": "Yana bitta so‘rov ketadi, faqat shu koin uchun.",
+     "ru": "Уходит ещё один запрос, только для этой монеты."
+    }
+   },
+   {
+    "s": 20.31,
+    "e": 23.563,
+    "text": {
+     "en": "And when the answer comes back, the page is drawn from it.",
+     "uz": "Javob qaytgach, sahifa undan chiziladi.",
+     "ru": "Когда приходит ответ, страница рисуется по нему."
+    }
+   },
+   {
+    "s": 26.691,
+    "e": 36.292,
+    "text": {
+     "en": "The table works the same way. Every page is one request: ten coins, in the currency you chose. And the answer sets the time of the last update.",
+     "uz": "Jadval ham shunday ishlaydi. Har sahifa bitta so‘rov: tanlangan valyutada o‘nta koin. Javob oxirgi yangilanish vaqtini ham belgilaydi.",
+     "ru": "Таблица работает так же. Каждая страница это один запрос: десять монет в выбранной валюте. И ответ задаёт время обновления."
+    }
+   },
+   {
+    "s": 36.592,
+    "e": 41.545,
+    "text": {
+     "en": "Like a coin? Tap the star. It goes to your watchlist, which is kept in the browser.",
+     "uz": "Koin yoqdimi? Yulduzchani bosing. U brauzerda saqlanadigan kuzatuv ro‘yxatiga tushadi.",
+     "ru": "Понравилась монета? Нажмите звёздочку. Она попадёт в список, который хранится в браузере."
+    }
+   },
+   {
+    "s": 43.216,
+    "e": 46.975,
+    "text": {
+     "en": "The coin page shows the rank, the price, and the market cap.",
+     "uz": "Koin sahifasida o‘rin, narx va kapitalizatsiya bor.",
+     "ru": "На странице монеты место, цена и капитализация."
+    }
+   },
+   {
+    "s": 48.047,
+    "e": 53.015,
+    "text": {
+     "en": "And the chart? Honestly, it’s still empty. That’s why this project is in the lab.",
+     "uz": "Grafik-chi? Ochig‘i, u hali bo‘sh. Shuning uchun bu loyiha laboratoriyada.",
+     "ru": "А график? Честно, он пока пустой. Поэтому проект в лаборатории."
+    }
+   }
+  ]
+ },
+ "online-store": {
+  "src": "/videos/online-store/film.mp4",
+  "preview": "/videos/online-store/preview.mp4",
+  "poster": "/videos/online-store/poster.jpg",
+  "duration": 56.186,
+  "chapters": [
+   {
+    "t": 0,
+    "title": {
+     "en": "One click",
+     "uz": "Bitta bosish",
+     "ru": "Один клик"
+    }
+   },
+   {
+    "t": 11.9,
+    "title": {
+     "en": "The shop",
+     "uz": "Do‘kon",
+     "ru": "Магазин"
+    }
+   },
+   {
+    "t": 19.8,
+    "title": {
+     "en": "The click",
+     "uz": "Bosish",
+     "ru": "Клик"
+    }
+   },
+   {
+    "t": 25.5,
+    "title": {
+     "en": "The question",
+     "uz": "Savol",
+     "ru": "Вопрос"
+    }
+   },
+   {
+    "t": 37.8,
+    "title": {
+     "en": "The memory",
+     "uz": "Xotira",
+     "ru": "Память"
+    }
+   },
+   {
+    "t": 44.2,
+    "title": {
+     "en": "The maths",
+     "uz": "Hisob",
+     "ru": "Математика"
+    }
+   }
+  ],
+  "cues": [
+   {
+    "s": 0.35,
+    "e": 1.125,
+    "text": {
+     "en": "One click.",
+     "uz": "Bitta bosish.",
+     "ru": "Один клик."
+    }
+   },
+   {
+    "s": 1.475,
+    "e": 3.278,
+    "text": {
+     "en": "Add to cart. Easy, right?",
+     "uz": "Savatga qo‘shish. Osonmi?",
+     "ru": "В корзину. Легко, да?"
+    }
+   },
+   {
+    "s": 4.318,
+    "e": 9.148,
+    "text": {
+     "en": "But behind that one click, there’s a question, a memory, and a little bit of maths.",
+     "uz": "Lekin shu bitta bosish ortida savol, xotira va ozgina hisob bor.",
+     "ru": "Но за этим одним кликом вопрос, память и немного математики."
+    }
+   },
+   {
+    "s": 10.415,
+    "e": 11.192,
+    "text": {
+     "en": "Let’s open it up.",
+     "uz": "Keling, ichini ochamiz.",
+     "ru": "Давайте заглянем внутрь."
+    }
+   },
+   {
+    "s": 12.199,
+    "e": 15.706,
+    "text": {
+     "en": "First, the shop itself. Products fly in from an API.",
+     "uz": "Avval do‘konning o‘zi. Mahsulotlar API’dan uchib keladi.",
+     "ru": "Сначала сам магазин. Товары прилетают из API."
+    }
+   },
+   {
+    "s": 16.006,
+    "e": 19.222,
+    "text": {
+     "en": "Filter them. Sort them. Grid, or list.",
+     "uz": "Filtrlang. Saralang. Katak yoki ro‘yxat.",
+     "ru": "Фильтруйте. Сортируйте. Сетка или список."
+    }
+   },
+   {
+    "s": 20.081,
+    "e": 23.77,
+    "text": {
+     "en": "Now pick one. Bar stools. Orange. Just one of them.",
+     "uz": "Endi birini tanlaymiz. Bar stullari. To‘q sariq. Faqat bitta.",
+     "ru": "Выберем один. Барные стулья. Оранжевые. Всего один."
+    }
+   },
+   {
+    "s": 23.99,
+    "e": 24.684,
+    "text": {
+     "en": "And… click.",
+     "uz": "Va… bosdik.",
+     "ru": "И… клик."
+    }
+   },
+   {
+    "s": 26.034,
+    "e": 26.728,
+    "text": {
+     "en": "Freeze.",
+     "uz": "To‘xtang.",
+     "ru": "Стоп."
+    }
+   },
+   {
+    "s": 27.228,
+    "e": 31.556,
+    "text": {
+     "en": "Question one. Is it already in the cart? Same item? Same colour?",
+     "uz": "Birinchi savol. U savatda bormi? Mahsulot o‘shami? Rangi o‘shami?",
+     "ru": "Вопрос первый. Он уже в корзине? Тот же товар? Тот же цвет?"
+    }
+   },
+   {
+    "s": 31.756,
+    "e": 36.023,
+    "text": {
+     "en": "Yes? Then only the number grows. No? It gets a row of its own.",
+     "uz": "Ha? Unda faqat soni oshadi. Yo‘q? O‘ziga yangi qator oladi.",
+     "ru": "Да? Тогда растёт только число. Нет? Своя новая строка."
+    }
+   },
+   {
+    "s": 38.131,
+    "e": 40.776,
+    "text": {
+     "en": "And the cart itself? It’s not on some server.",
+     "uz": "Savatning o‘zi-chi? U qandaydir serverda emas.",
+     "ru": "А сама корзина? Она не на сервере."
+    }
+   },
+   {
+    "s": 40.976,
+    "e": 43.44,
+    "text": {
+     "en": "It’s right here, in the browser’s own memory.",
+     "uz": "U mana shu yerda, brauzerning o‘z xotirasida.",
+     "ru": "Она прямо здесь, в памяти браузера."
+    }
+   },
+   {
+    "s": 44.487,
+    "e": 50.531,
+    "text": {
+     "en": "So this little badge, and everything after it? Count. Total. All worked out from that memory.",
+     "uz": "Mana bu kichik belgi va undan keyingi hammasi? Soni. Jami. Barchasi o‘sha xotiradan hisoblanadi.",
+     "ru": "А этот значок и всё после него? Количество. Сумма. Всё считается из этой памяти."
+    }
+   },
+   {
+    "s": 51.352,
+    "e": 54.913,
+    "text": {
+     "en": "No real payments here. But the logic? That part is real.",
+     "uz": "Bu yerda haqiqiy to‘lov yo‘q. Lekin mantiq-chi? U haqiqiy.",
+     "ru": "Настоящих платежей здесь нет. А логика? Она настоящая."
+    }
+   }
+  ]
+ }
+}

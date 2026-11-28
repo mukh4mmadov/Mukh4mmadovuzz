@@ -1,0 +1,73 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:04.315
+It answers questions in Uzbek. And it runs on a laptop.
+
+00:00:05.081 --> 00:00:08.243
+And sometimes, it’s wrong. You’ll see that too.
+
+00:00:09.398 --> 00:00:16.553
+Meet OMZU, an assistant for Uzbek, with a small language model trained on Kaggle. It isn’t deployed.
+
+00:00:17.284 --> 00:00:26.199
+A model this small shouldn’t guess live facts. Weather? Exchange rates? Those come from tools, and the answer names its source.
+
+00:00:26.945 --> 00:00:34.584
+Facts are searched in two hundred and thirty-one thousand Uzbek Wikipedia articles. Let’s ask: who was Ulugh Beg?
+
+00:00:34.634 --> 00:00:43.420
+The words are shortened to their roots, and looked up in an index. The best passages come back. Are they really about the question? Only those go to the model.
+
+00:00:48.555 --> 00:00:53.198
+Inside the index, every word keeps a list of the passages it appears in.
+
+00:00:53.248 --> 00:00:58.841
+Run through the lists, and only some passages meet in all of them. Those get a score.
+
+00:01:00.250 --> 00:01:08.502
+So here’s the path of one question. About weather, rates or sums? A tool answers, and the model isn’t used at all.
+
+00:01:08.552 --> 00:01:16.707
+Anything else is searched. The best passages are checked against the question, and only then does the model write an answer from them.
+
+00:01:18.301 --> 00:01:26.110
+And when nothing reliable is found, it says so. Asked for a neighbour’s phone number, it answers that it has no certain information.
+
+00:01:26.691 --> 00:01:37.548
+Now, the model itself. Uzbek and English text is cleaned, and converted to one alphabet. Then a tokenizer is trained on it, with thirty-two thousand pieces.
+
+00:01:37.598 --> 00:01:43.030
+The model is pretrained on Kaggle graphics cards, then fine-tuned on questions and answers.
+
+00:01:44.487 --> 00:01:50.823
+And it doesn’t see letters. This question becomes five pieces, and each piece is a number.
+
+00:01:50.873 --> 00:01:57.410
+A long Uzbek word, “from our books”, needs only two: the root, and everything joined to it.
+
+00:01:58.216 --> 00:02:04.255
+About one hundred and ten million parameters, in twelve layers. A word climbs through all of them.
+
+00:02:04.305 --> 00:02:09.604
+A cache keeps the earlier tokens, so each new word doesn’t repeat the work.
+
+00:02:11.436 --> 00:02:13.832
+And now, the promised mistake.
+
+00:02:14.742 --> 00:02:19.550
+Asked what the Silk Road was, it describes a radio station. With the same name.
+
+00:02:20.335 --> 00:02:31.099
+Why? These are the real scores. First the search matches the text. Then it multiplies the score for a matching title. And all four titles match equally well.
+
+00:02:31.149 --> 00:02:35.951
+The radio station wins, by one point six. That’s the whole mistake.
+
+00:02:36.606 --> 00:02:42.256
+So how good is it? It was tested with fifty-two questions, and got thirty-six right.
+
+00:02:43.216 --> 00:02:48.574
+But the test only looks for key words. It even counted the radio station as correct.
+
+00:02:48.624 --> 00:02:52.633
+So the real score is lower. And now you know exactly why.

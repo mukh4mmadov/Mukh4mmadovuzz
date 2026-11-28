@@ -1,0 +1,166 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:02.984
+Almost six thousand Korean words.
+
+00:00:03.809 --> 00:00:05.276
+How do you keep them in your head?
+
+00:00:06.347 --> 00:00:11.875
+K-Talim is a site for learning Korean, explained in Uzbek, English or Russian.
+
+00:00:12.453 --> 00:00:21.314
+Every day starts with a plan: reviews, new words, grammar, exam practice, reading. And a daily goal that you set yourself.
+
+00:00:22.114 --> 00:00:29.811
+The words are grouped into topics and levels, from beginner to TOPIK six, and every group keeps its own statistics.
+
+00:00:30.504 --> 00:00:35.886
+New words come in short steps. See it. Hear it. Check the meaning. Then answer.
+
+00:00:36.606 --> 00:00:42.689
+Then come the flashcards. How well did you remember? Again, hard, good, or easy.
+
+00:00:42.739 --> 00:00:46.800
+And look: every button already shows when the card will come back.
+
+00:00:47.538 --> 00:00:50.956
+Press Good, and the card is scheduled right on the device.
+
+00:00:51.006 --> 00:00:59.347
+Then the progress is saved to the account. There, database triggers check the points, and update the leaderboard and the weekly league.
+
+00:01:02.284 --> 00:01:15.880
+But how does it know when? Behind the buttons is FSRS five, the scheduler that Anki also uses. Every card has a stability: the number of days until your chance of remembering falls to ninety percent.
+
+00:01:15.930 --> 00:01:23.692
+Answer Good, and the gap grows: four days. Fourteen. Forty-four. Forget it once, and it drops back to about four.
+
+00:01:24.403 --> 00:01:30.193
+Looking for a word? Search in Korean, by its meaning, or just by how it sounds.
+
+00:01:31.013 --> 00:01:42.671
+Romanized Korean is spelled in many ways. So both sides are folded down to one rough key. G becomes K. Double letters become one. And suddenly, two spellings meet.
+
+00:01:43.470 --> 00:01:48.741
+Each grammar pattern has examples with audio, and the mistakes that learners often make.
+
+00:01:49.318 --> 00:01:52.651
+Or write a sentence of your own, and let the AI check it.
+
+00:01:52.701 --> 00:01:59.953
+The server takes only a signed-in learner, cuts the text to two hundred characters, and spends one check from the daily limit.
+
+00:02:00.003 --> 00:02:09.433
+And the model has to answer in a fixed form. Correct, or not? The corrected sentence, an explanation, a translation. All kept in the account.
+
+00:02:13.216 --> 00:02:21.074
+Stories are built from the words of a topic. Tap a word, show a translation, listen, and answer questions at the end.
+
+00:02:21.860 --> 00:02:29.075
+Exam practice runs against the clock, or one question type at a time, with an explanation after every answer.
+
+00:02:29.742 --> 00:02:38.172
+And this is a full reading paper. Forty questions, a timer, flags for later, translations, and the page of the original paper.
+
+00:02:38.894 --> 00:02:47.680
+Every answer is saved on the device at once. A few seconds later it goes to the account, so the attempt is there, on every device.
+
+00:02:47.730 --> 00:02:52.487
+Started as a guest? The attempts move into the account when you sign in.
+
+00:02:55.419 --> 00:02:58.288
+Reading is one thing. But what about speaking?
+
+00:02:59.233 --> 00:03:06.789
+This is a real conversation with Friday, the AI partner. The learner chooses a level, and Friday opens with a question.
+
+00:03:06.839 --> 00:03:16.083
+Here, a recorded Korean voice is played into the microphone. The sentence appears as text, Friday answers it, and asks the next one.
+
+00:03:16.775 --> 00:03:25.907
+So what happens to one sentence? The server checks who is asking, makes sure that nobody sends too much, and looks at how many seconds are left for today.
+
+00:03:25.957 --> 00:03:34.459
+Only then does the AI hear the recording. The time is added after the reply. And if the first AI fails, a second one takes over.
+
+00:03:36.352 --> 00:03:44.246
+And the counter? It works in one single step. If two requests arrive together, only one of them can take the last place.
+
+00:03:44.996 --> 00:03:52.940
+But you can talk to real people, too. These are two test accounts. Each chooses a level, and who to talk to, and waits for a partner.
+
+00:03:53.640 --> 00:04:05.694
+First, the database checks the profile, the age, bans, and the time left today. Then it takes the learner who has waited longest, at the same level, if neither has blocked the other.
+
+00:04:05.744 --> 00:04:11.769
+That row stays locked while it’s taken. So one person is never given to two callers.
+
+00:04:16.012 --> 00:04:23.921
+Both browsers say hello at a meeting point, and agree on how to connect. And then the voice goes directly, from one browser to the other.
+
+00:04:23.971 --> 00:04:28.933
+Calls are recorded and kept for thirty days, so that a report can be checked.
+
+00:04:29.742 --> 00:04:41.999
+Now, could somebody cheat? Progress is saved from the device, so a database trigger trims what no person could earn. Three points a second, bursts of up to three hundred, three thousand a day.
+
+00:04:42.708 --> 00:04:51.597
+And if two devices hold different progress? They’re merged. Each word keeps its most recent record, and counters keep the larger value.
+
+00:04:52.369 --> 00:04:58.210
+And every evening at eight, a job finds learners whose streak ends tonight, and reminds them.
+
+00:04:59.487 --> 00:05:09.359
+What about Premium? It’s a date on the account, and only the server can set it. It raises the daily limits for AI checks, the tutor, and speaking.
+
+00:05:09.409 --> 00:05:13.022
+The limits are settings, so they change without a release.
+
+00:05:14.742 --> 00:05:20.093
+Statistics count streaks, accuracy, study time, and how many words are mastered.
+
+00:05:20.843 --> 00:05:24.261
+Thirty-seven badges, and levels, mark the way.
+
+00:05:24.911 --> 00:05:32.431
+Then there’s the weekly league: groups of up to thirty learners, and the top five move up on Monday. The names are hidden here.
+
+00:05:33.047 --> 00:05:41.598
+Groups are filled under a lock, one learner after another. So two people who join together can’t both take the last place.
+
+00:05:42.199 --> 00:05:50.416
+Study in Korea lists three hundred and sixty-seven universities, with certification, tuition, scholarships, and visa steps.
+
+00:05:51.097 --> 00:06:02.499
+And the AI advisor? It gets only this catalogue and official facts. If the answer isn’t there, it has to say so. And universities that aren’t in the catalogue are dropped from the reply.
+
+00:06:04.318 --> 00:06:16.801
+Now, behind the curtain: the admin panel. Seven hundred and ninety-four words in thirty-two topics, plus the official TOPIK word lists. And twenty-three exam papers, with almost two thousand questions.
+
+00:06:17.538 --> 00:06:23.614
+A word’s meanings, romanization and example can be corrected here, in three languages.
+
+00:06:24.403 --> 00:06:34.489
+Before an edited story or grammar page is saved, its old version goes into the history, so it can be brought back. And learners get the change without a new release.
+
+00:06:35.081 --> 00:06:43.447
+The user list has filters for activity, Premium, blocks, and deletion requests. Personal data is blurred here.
+
+00:06:44.233 --> 00:06:47.341
+Now, the honest part. Some things are still limited.
+
+00:06:47.391 --> 00:06:52.848
+The AI partner has a daily allowance: ten minutes free, two hours with Premium.
+
+00:06:52.898 --> 00:07:02.674
+Only two hundred and seventy-eight words are read by real people. The rest use AI or browser voices, so the pronunciation can sound unnatural.
+
+00:07:02.724 --> 00:07:06.362
+And Friday runs on light, low-cost AI models.
+
+00:07:06.412 --> 00:07:18.580
+With extra budget, that changes. A professional Korean voice for every word and story. Stronger AI, for more natural speech and better corrections. And bigger daily allowances.
+
+00:07:20.081 --> 00:07:22.389
+It’s live, at k-talim dot u z.

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:01.375
+One click.
+
+00:00:01.475 --> 00:00:03.528
+Add to cart. Easy, right?
+
+00:00:04.318 --> 00:00:09.398
+But behind that one click, there’s a question, a memory, and a little bit of maths.
+
+00:00:10.415 --> 00:00:11.442
+Let’s open it up.
+
+00:00:12.199 --> 00:00:15.956
+First, the shop itself. Products fly in from an API.
+
+00:00:16.006 --> 00:00:19.472
+Filter them. Sort them. Grid, or list.
+
+00:00:20.081 --> 00:00:24.020
+Now pick one. Bar stools. Orange. Just one of them.
+
+00:00:23.990 --> 00:00:24.934
+And… click.
+
+00:00:26.034 --> 00:00:26.978
+Freeze.
+
+00:00:27.228 --> 00:00:31.806
+Question one. Is it already in the cart? Same item? Same colour?
+
+00:00:31.756 --> 00:00:36.273
+Yes? Then only the number grows. No? It gets a row of its own.
+
+00:00:38.131 --> 00:00:41.026
+And the cart itself? It’s not on some server.
+
+00:00:40.976 --> 00:00:43.690
+It’s right here, in the browser’s own memory.
+
+00:00:44.487 --> 00:00:50.781
+So this little badge, and everything after it? Count. Total. All worked out from that memory.
+
+00:00:51.352 --> 00:00:55.163
+No real payments here. But the logic? That part is real.

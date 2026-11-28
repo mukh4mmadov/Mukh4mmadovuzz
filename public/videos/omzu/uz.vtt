@@ -1,0 +1,73 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:04.315
+Bu o‘zbekcha savollarga javob beradi. U noutbukda ishlaydi.
+
+00:00:05.081 --> 00:00:08.243
+Ba’zan esa u xato qiladi. Buni ham ko‘rasiz.
+
+00:00:09.398 --> 00:00:16.553
+OMZU bilan tanishing: o‘zbek tili uchun yordamchi, ichida Kaggle’da o‘qitilgan kichik til modeli bor. U deploy qilinmagan.
+
+00:00:17.284 --> 00:00:26.199
+Bunday kichik model jonli faktlarni taxmin qilmasligi kerak. Ob-havo? Valyuta kursi? Ular vositalardan keladi va javobda manba aytiladi.
+
+00:00:26.945 --> 00:00:34.584
+Faktlar o‘zbekcha Vikipediyaning 231 ming maqolasidan qidiriladi. So‘raymiz: Ulug‘bek kim bo‘lgan?
+
+00:00:34.634 --> 00:00:43.420
+So‘zlar o‘zagigacha qisqartirilib, indeksdan qidiriladi. Eng yaxshi parchalar qaytadi. Ular rostdan savol haqidami? Faqat shundaylari modelga beriladi.
+
+00:00:48.555 --> 00:00:53.198
+Indeks ichida har bir so‘z qaysi parchalarda borligining ro‘yxatini saqlaydi.
+
+00:00:53.248 --> 00:00:58.841
+Ro‘yxatlar bo‘ylab yurilsa, faqat ba’zi parchalar hammasida uchrashadi. Ular ball oladi.
+
+00:01:00.250 --> 00:01:08.502
+Mana bitta savolning yo‘li. Ob-havo, kurs yoki hisob haqidami? Vosita javob beradi, model umuman ishlatilmaydi.
+
+00:01:08.552 --> 00:01:16.707
+Qolgan hammasi qidiriladi. Eng yaxshi parchalar savol bilan solishtiriladi, shundan keyingina model ulardan javob yozadi.
+
+00:01:18.301 --> 00:01:26.110
+Ishonchli narsa topilmasa, shunday deydi. Qo‘shnining telefon raqami so‘ralganda, aniq ma’lumot yo‘qligini aytadi.
+
+00:01:26.691 --> 00:01:37.548
+Endi modelning o‘zi. O‘zbekcha va inglizcha matn tozalanib, bitta alifboga o‘tkaziladi. Keyin unda 32 ming bo‘lakli tokenizer o‘qitiladi.
+
+00:01:37.598 --> 00:01:43.030
+Model Kaggle videokartalarida pretrain qilinadi, so‘ng savol-javoblarda fine-tune qilinadi.
+
+00:01:44.487 --> 00:01:50.823
+U harflarni ko‘rmaydi. Bu savol besh bo‘lakka aylanadi, har bo‘lak bitta son.
+
+00:01:50.873 --> 00:01:57.410
+Uzun o‘zbekcha so‘z, «kitoblarimizdan», atigi ikkitani oladi: o‘zak va unga qo‘shilgan hammasi.
+
+00:01:58.216 --> 00:02:04.255
+Taxminan 110 million parametr, o‘n ikki qatlam. So‘z hammasidan o‘tib ko‘tariladi.
+
+00:02:04.305 --> 00:02:09.604
+Kesh oldingi tokenlarni saqlaydi, shuning uchun yangi so‘z eski ishni takrorlamaydi.
+
+00:02:11.436 --> 00:02:13.832
+Va endi, va’da qilingan xato.
+
+00:02:14.742 --> 00:02:19.550
+Ipak yo‘li nima deb so‘ralsa, u radiostansiyani ta’riflaydi. Xuddi shu nomli.
+
+00:02:20.335 --> 00:02:31.099
+Nega? Bular haqiqiy ballar. Avval qidiruv matnni solishtiradi. Keyin sarlavha mos kelsa, ballni ko‘paytiradi. To‘rtala sarlavha ham bir xil mos.
+
+00:02:31.149 --> 00:02:35.951
+Radio 1,6 ballga yutadi. Xatoning hammasi shu.
+
+00:02:36.606 --> 00:02:42.256
+Xo‘sh, u qanchalik yaxshi? U 52 ta savol bilan sinaldi va 36 tasiga to‘g‘ri javob berdi deb topildi.
+
+00:02:43.216 --> 00:02:48.574
+Lekin test faqat kalit so‘zlarni qidiradi. U hatto radiostansiyani ham to‘g‘ri deb sanagan.
+
+00:02:48.624 --> 00:02:52.633
+Demak, haqiqiy natija pastroq. Endi nega bunday ekanini aniq bilasiz.

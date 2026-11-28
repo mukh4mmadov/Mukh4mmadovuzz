@@ -1,0 +1,172 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:02.930
+Two students. One free time.
+
+00:00:02.980 --> 00:00:06.155
+And both of them press the button at the same moment.
+
+00:00:06.860 --> 00:00:08.721
+So… who gets the lesson?
+
+00:00:09.907 --> 00:00:14.866
+This is OPUS Support, a booking system for a learning centre in Uzbekistan.
+
+00:00:15.504 --> 00:00:20.936
+The support lessons ran on a very old-fashioned system. OPUS Support replaces it.
+
+00:00:21.606 --> 00:00:27.199
+Let’s start as a student. Here are the support teachers, with their ratings and working hours.
+
+00:00:27.962 --> 00:00:35.474
+Pick a time. Grey means taken. But see the little bell? Tap it, and you join the waiting list. If the time frees up, you’ll know.
+
+00:00:35.524 --> 00:00:40.573
+For a free time, write what you want to study, so the teacher can prepare for exactly that.
+
+00:00:41.182 --> 00:00:45.607
+And… Book. The app calls one function in the database.
+
+00:00:45.657 --> 00:00:53.143
+Is it a student? Is the topic written? No ban? A good date? Under the limits? Only then does a new row appear.
+
+00:00:53.193 --> 00:00:58.229
+Both people get a notification. And only now does the screen say: booked.
+
+00:01:01.013 --> 00:01:06.383
+Before the lesson, both sides can chat. And yes, the centre can read these chats.
+
+00:01:06.433 --> 00:01:14.787
+Every message goes through a function, too. Who is writing? Is the chat still open? Then it’s saved, and the other side is notified.
+
+00:01:17.792 --> 00:01:25.242
+Plans changed? Move the lesson, until the end of the day before. A limited number of times a month, and with no penalty.
+
+00:01:25.928 --> 00:01:31.672
+Confirmations, messages, reminders: they all arrive by themselves, on the phone too.
+
+00:01:32.284 --> 00:01:37.194
+Now, remember those two students? Here they are. This is a real recording.
+
+00:01:37.244 --> 00:01:44.607
+One gets the lesson. The other learns that it was just taken, sees what is still free, and doesn’t even lose the topic.
+
+00:01:45.250 --> 00:01:52.724
+So who decided? Not the app. One rule inside the database: one teacher, one time, one lesson.
+
+00:01:52.774 --> 00:02:00.360
+The first request fits. The second one breaks that rule, the database refuses it, and the student gets a clear answer.
+
+00:02:01.013 --> 00:02:09.316
+Every request passes through gates like these. Any bans? The limits? The dates? Only then is the lesson written.
+
+00:02:09.366 --> 00:02:14.329
+So change the app in your own browser, as much as you like. You gain nothing.
+
+00:02:16.521 --> 00:02:24.490
+Lesson time. The teacher presses Came, and a code appears. The student scans it, and both phones turn to: Attended.
+
+00:02:25.165 --> 00:02:35.635
+That code lives for forty-five seconds. A wrong guess is counted, and after twenty tries, the lesson locks. So no, guessing doesn’t work.
+
+00:02:36.352 --> 00:02:41.313
+How was it? One to five stars. And only the centre reads the comments.
+
+00:02:41.945 --> 00:02:48.652
+The database takes a rating only from that student, only after the lesson, in time, and only once.
+
+00:02:48.702 --> 00:02:52.066
+A low rating? The administrators will hear about it.
+
+00:02:54.911 --> 00:03:00.727
+Every lesson is kept, with its result, and counted by week, by month and by year.
+
+00:03:01.521 --> 00:03:07.732
+Something went wrong? Report it, and watch it move: received, being reviewed, answered.
+
+00:03:08.386 --> 00:03:14.008
+Miss a lesson, and you get a warning. Miss another, and booking closes for a while.
+
+00:03:14.742 --> 00:03:19.191
+Already at the centre? Ask a teacher who is there for a lesson, right now.
+
+00:03:19.826 --> 00:03:26.867
+The function makes sure that no other request is waiting, and that the teacher is present today, and free at that time.
+
+00:03:26.917 --> 00:03:30.371
+Then the request pops up on the teacher’s phone, with a timer.
+
+00:03:33.301 --> 00:03:37.764
+And the top students? There’s a ranking of who attended the most lessons.
+
+00:03:38.386 --> 00:03:39.898
+Now, let’s switch sides.
+
+00:03:40.674 --> 00:03:45.252
+The teacher opens Today, and sees who is coming, and what they want to study.
+
+00:03:46.013 --> 00:03:53.302
+The calendar shows the whole week. Can’t come? Close the day, and booked students are offered another teacher.
+
+00:03:53.894 --> 00:04:02.631
+Teachers have to check in, too. This screen at reception shows a code that changes every ten seconds, and each code works just once.
+
+00:04:03.301 --> 00:04:11.999
+Now watch the checks. Does the code exist? Is it unused? Less than twenty seconds old? And is the phone close enough?
+
+00:04:12.049 --> 00:04:20.166
+Then the phone sends numbers that describe the face. Seen before? Refused. New ones? Compared, on the server.
+
+00:04:22.369 --> 00:04:30.263
+And the admin? The day starts here, with what needs a person: lessons nobody marked, and complaints nobody answered.
+
+00:04:31.013 --> 00:04:36.099
+Every lesson is here, with filters. And the admin can book for a student.
+
+00:04:36.860 --> 00:04:44.088
+A new account? Just a name and a birth year. The system makes the login, and a card with a QR code, ready to print.
+
+00:04:44.742 --> 00:04:50.100
+Closing a day? First, see which lessons it touches, and what will happen to each of them.
+
+00:04:50.843 --> 00:04:54.376
+Bans can be changed, or lifted. Strikes can be removed.
+
+00:04:55.165 --> 00:04:59.162
+Complaints get their answers here. Support teachers never see them.
+
+00:04:59.742 --> 00:05:04.849
+Attendance, the busiest hours, how much each teacher works. It’s all counted.
+
+00:05:05.589 --> 00:05:11.368
+One message, to one person, all students, all support teachers, or everyone.
+
+00:05:11.945 --> 00:05:19.584
+And the rules themselves? They’re settings. The centre changes limits and deadlines without waiting for a release.
+
+00:05:20.335 --> 00:05:24.616
+And the log remembers what the admin changed, and every attendance mark.
+
+00:05:25.419 --> 00:05:35.329
+And when nobody is looking? Once a minute, a job in the database checks the clock. A lesson is close, and not announced yet? It sends a reminder.
+
+00:05:35.379 --> 00:05:43.980
+Nobody confirmed a lesson before the deadline? It’s marked as missed. But partway through, both sides are warned, so either one can put it right.
+
+00:05:44.742 --> 00:05:49.110
+A lesson has a life of its own. Booked can become attended, or missed.
+
+00:05:49.160 --> 00:05:56.876
+A day is closed? Then it waits for another teacher, and goes back to booked. Nobody chooses one in time? Cancelled.
+
+00:05:57.453 --> 00:06:05.883
+And here is the whole system, from above. Three apps: for students, teachers and the admin. They never touch the data themselves.
+
+00:06:05.933 --> 00:06:15.561
+Everything passes the rules first, and only then reaches the database. Every minute, a job looks for work. And the news goes to the phone.
+
+00:06:17.284 --> 00:06:23.044
+OPUS Support went live in November twenty twenty-six, and the centre is just starting to use it.
+
+00:06:23.640 --> 00:06:28.805
+All the people and data in this video are invented. The system is real.

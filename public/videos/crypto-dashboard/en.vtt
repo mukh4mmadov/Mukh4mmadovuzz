@@ -1,0 +1,31 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:02.733
+How much is one coin worth, right now?
+
+00:00:03.805 --> 00:00:08.448
+This dashboard asks CoinGecko, a public service, and shows you the answer.
+
+00:00:09.148 --> 00:00:15.731
+Popular coins slide across the top. Below them is a table that you can search, and page through.
+
+00:00:15.781 --> 00:00:16.856
+Let’s open one.
+
+00:00:17.538 --> 00:00:20.260
+One more request goes out, for this coin alone.
+
+00:00:20.310 --> 00:00:23.813
+And when the answer comes back, the page is drawn from it.
+
+00:00:26.691 --> 00:00:36.542
+The table works the same way. Every page is one request: ten coins, in the currency you chose. And the answer sets the time of the last update.
+
+00:00:36.592 --> 00:00:41.795
+Like a coin? Tap the star. It goes to your watchlist, which is kept in the browser.
+
+00:00:43.216 --> 00:00:47.225
+The coin page shows the rank, the price, and the market cap.
+
+00:00:48.047 --> 00:00:53.265
+And the chart? Honestly, it’s still empty. That’s why this project is in the lab.
